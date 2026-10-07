@@ -345,3 +345,15 @@ section:has(.service-image) a { font-size:15px; line-height:1.5; font-weight:600
  section:has(.service-image) [aria-current='true'] > span { font-size:17px; }
  section:has(.service-image) a { font-size:13px; padding:10px 14px; }
 }
+
+/* Publishing comparison uses the same plum and lavender identity as the site. */
+body:has(#publishing-banner) section:has(.from-green-500) .from-green-500 {
+ background:linear-gradient(145deg,#372351 0%,#542375 65%,#7900ad 100%);
+ border:1px solid #9864b5;
+ box-shadow:0 18px 44px #54237526;
+}
+body:has(#publishing-banner) section:has(.from-green-500) .from-green-400 { background:linear-gradient(145deg,#b303ff,#542375); }
+body:has(#publishing-banner) section:has(.from-green-500) .text-green-100 { color:#eee3f6; }
+body:has(#publishing-banner) section:has(.from-green-500) .text-red-600 { color:#63576c; }
+body:has(#publishing-banner) section:has(.from-green-500) :is(.bg-red-200,.bg-orange-200) { background:#eee3f6; color:#7900ad; }
+body:has(#publishing-banner) section:has(.from-green-500) .bg-white\/20 { background:#e9cff930; color:#fff7ff; }
