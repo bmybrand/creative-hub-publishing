@@ -39,3 +39,9 @@ node scripts/creative-hub/check-process-tabs.mjs
 ```
 
 Contact details are placeholders. Sign Up is currently hidden in navigation.
+
+## Deploy to Vercel
+
+Import this repository with the Root Directory set to the repository root. The checked-in `vercel.json` serves `output/bookwhisk` directly, with no install or build step. The website is already generated; `npm run build` builds the cloning CLI, not the website.
+
+If an earlier deployment failed looking for `public`, deploy the latest commit. Keep the Framework Preset as Other.
