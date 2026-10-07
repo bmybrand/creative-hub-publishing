@@ -105,3 +105,5 @@ await fs.writeFile(path.join(root,'assets/brand/home-banner.js'),`(${installHome
 await fs.copyFile(path.resolve('scripts/creative-hub/home-counters.js'),path.join(root,'assets/brand/home-counters.js'));
 console.log(`Creative Hub branding applied to ${changed} HTML, CSS and runtime files. Original saved at ${backup}`);
 
+
+await import('./creative-hub/prepare-static.mjs');
