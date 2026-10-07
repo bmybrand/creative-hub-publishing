@@ -1,0 +1,2376 @@
+{
+  "sourceUrl": "https://bookwhisk.com/",
+  "clonedAt": "2026-10-06T18:54:20.345Z",
+  "pages": [
+    {
+      "url": "https://bookwhisk.com/",
+      "path": "index.html",
+      "title": "BookWhisk - Self-Publishing Facilitators"
+    },
+    {
+      "url": "https://bookwhisk.com/services",
+      "path": "services/index.html",
+      "title": "Services | BookWhisk - Self-Publishing Facilitators"
+    },
+    {
+      "url": "https://bookwhisk.com/childrens-book-publishing",
+      "path": "childrens-book-publishing/index.html",
+      "title": "Childrens Book Publishing | BookWhisk - Self-Publishing Facilitators"
+    },
+    {
+      "url": "https://bookwhisk.com/about-us",
+      "path": "about-us/index.html",
+      "title": "About | BookWhisk - Self-Publishing Facilitators"
+    },
+    {
+      "url": "https://bookwhisk.com/signup",
+      "path": "signup/index.html",
+      "title": "Sign Up | BookWhisk - Self-Publishing Facilitators"
+    },
+    {
+      "url": "https://bookwhisk.com/contact",
+      "path": "contact/index.html",
+      "title": "Contact Us | BookWhisk - Self-Publishing Facilitators"
+    },
+    {
+      "url": "https://bookwhisk.com/how-it-works",
+      "path": "how-it-works/index.html",
+      "title": "How It Works - BookWhisk"
+    },
+    {
+      "url": "https://bookwhisk.com/self-publishing",
+      "path": "self-publishing/index.html",
+      "title": "Self Publishing"
+    },
+    {
+      "url": "https://bookwhisk.com/writing-assistance",
+      "path": "writing-assistance/index.html",
+      "title": "Writing Assistance"
+    },
+    {
+      "url": "https://bookwhisk.com/book-editing",
+      "path": "book-editing/index.html",
+      "title": "Book Editing"
+    },
+    {
+      "url": "https://bookwhisk.com/book-cover-design",
+      "path": "book-cover-design/index.html",
+      "title": "Book Cover Design"
+    },
+    {
+      "url": "https://bookwhisk.com/book-proofreading",
+      "path": "book-proofreading/index.html",
+      "title": "Book Proofreading"
+    },
+    {
+      "url": "https://bookwhisk.com/audiobook-publishing-services",
+      "path": "audiobook-publishing-services/index.html",
+      "title": "Audiobook Publishing Services"
+    },
+    {
+      "url": "https://bookwhisk.com/ghostwriting",
+      "path": "ghostwriting/index.html",
+      "title": "Expert Ghostwriting"
+    },
+    {
+      "url": "https://bookwhisk.com/book-marketing",
+      "path": "book-marketing/index.html",
+      "title": "Book Marketing"
+    },
+    {
+      "url": "https://bookwhisk.com/book-distribution",
+      "path": "book-distribution/index.html",
+      "title": "Global Book Distribution"
+    },
+    {
+      "url": "https://bookwhisk.com/book-translation-services",
+      "path": "book-translation-services/index.html",
+      "title": "Book Translation"
+    },
+    {
+      "url": "https://bookwhisk.com/privacy-policy",
+      "path": "privacy-policy/index.html",
+      "title": "Privacy Policy"
+    },
+    {
+      "url": "https://bookwhisk.com/terms-and-conditions",
+      "path": "terms-and-conditions/index.html",
+      "title": "Terms and Conditions"
+    },
+    {
+      "url": "https://bookwhisk.com/book-formatting",
+      "path": "book-formatting/index.html",
+      "title": "Book Formatting"
+    },
+    {
+      "url": "https://bookwhisk.com/terms",
+      "path": "terms/index.html",
+      "title": "Terms and Conditions (local redirect)"
+    }
+  ],
+  "assets": [
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/css/4decf6d1af187521.css",
+      "localPath": "_next/static/css/4decf6d1af187521.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/laptop-1-640.avif",
+      "localPath": "imgs/generated/laptop-1-640.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/5c0c2bcbaa4149ca-s.p.woff2",
+      "localPath": "_next/static/media/5c0c2bcbaa4149ca-s.p.woff2",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/1f3fe8c6df3d47c1-s.p.woff2",
+      "localPath": "_next/static/media/1f3fe8c6df3d47c1-s.p.woff2",
+      "kind": "font"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/css/593f5adcf971a3b2.css",
+      "localPath": "_next/static/css/593f5adcf971a3b2.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/hero-img.avif",
+      "localPath": "imgs/hero-img.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/c-bg.avif",
+      "localPath": "imgs/c-bg.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/c-frame.avif",
+      "localPath": "imgs/c-frame.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/c-lights.avif",
+      "localPath": "imgs/c-lights.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/child-sec3.avif",
+      "localPath": "imgs/child-sec3.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/e1ca1eba-f92560c3d9eed417.js",
+      "localPath": "_next/static/chunks/e1ca1eba-f92560c3d9eed417.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/main-app-24e9d4b56a28ca07.js",
+      "localPath": "_next/static/chunks/main-app-24e9d4b56a28ca07.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/webpack-0544c366f7589481.js",
+      "localPath": "_next/static/chunks/webpack-0544c366f7589481.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/387-ca7f291add3a6fc1.js",
+      "localPath": "_next/static/chunks/387-ca7f291add3a6fc1.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/425-61c047d67e1808af.js",
+      "localPath": "_next/static/chunks/425-61c047d67e1808af.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/902-19a51c98c66577ac.js",
+      "localPath": "_next/static/chunks/902-19a51c98c66577ac.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/70-f33389f1f10424bd.js",
+      "localPath": "_next/static/chunks/70-f33389f1f10424bd.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/493-5b7d96a5a413aab9.js",
+      "localPath": "_next/static/chunks/493-5b7d96a5a413aab9.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/4308d61a-092a1ee51fe3c360.js",
+      "localPath": "_next/static/chunks/4308d61a-092a1ee51fe3c360.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/330-3de6c1e2b60d3e44.js",
+      "localPath": "_next/static/chunks/330-3de6c1e2b60d3e44.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/app/page-e1f6c8721dd4ba41.js",
+      "localPath": "_next/static/chunks/app/page-e1f6c8721dd4ba41.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/b6115b98-084525ed2ddc28f7.js",
+      "localPath": "_next/static/chunks/b6115b98-084525ed2ddc28f7.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/485-c3248159c458ab3a.js",
+      "localPath": "_next/static/chunks/485-c3248159c458ab3a.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/app/layout-176dfca712ca0826.js",
+      "localPath": "_next/static/chunks/app/layout-176dfca712ca0826.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/998-059aae3c5c7f6ef0.js",
+      "localPath": "_next/static/chunks/998-059aae3c5c7f6ef0.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/2-240.avif",
+      "localPath": "imgs/generated/books/2-240.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/1-240.avif",
+      "localPath": "imgs/generated/books/1-240.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/282-9e75bc237f787372.js",
+      "localPath": "_next/static/chunks/282-9e75bc237f787372.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/7-240.avif",
+      "localPath": "imgs/generated/books/7-240.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/4-240.avif",
+      "localPath": "imgs/generated/books/4-240.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/3-240.avif",
+      "localPath": "imgs/generated/books/3-240.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/5-240.avif",
+      "localPath": "imgs/generated/books/5-240.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/6-240.avif",
+      "localPath": "imgs/generated/books/6-240.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/ser_1-640.avif",
+      "localPath": "imgs/generated/ser_1-640.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/8-240.avif",
+      "localPath": "imgs/generated/books/8-240.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/logo.65782874.avif",
+      "localPath": "_next/static/media/logo.65782874.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/logo.65782874.avif",
+      "localPath": "_next/static/media/logo.65782874.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://cdn.livechatinc.com/tracking.js",
+      "localPath": "tracking.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/global-mapper/lc_license_id/19452997/region?jsonp=__lc_region",
+      "localPath": "assets/other/9f2de73aa8d4.bin",
+      "kind": "other"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/global-mapper/lc_license_id/19452997/region?jsonp=__lc_region",
+      "localPath": "assets/other/9f2de73aa8d4.bin",
+      "kind": "other"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_dynamic_configuration?x-region=us-south1&license_id=19452997&client_id=c5e4f61e1a6c3b1521b541bc5c5a2ac5&url=https%3A%2F%2Fbookwhisk.com%2F&channel_type=code&origin=livechat&implementation_type=manual_channels&jsonp=__pq2g39qvk6o",
+      "localPath": "assets/js/46c54df0b4c2.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_dynamic_configuration?x-region=us-south1&license_id=19452997&client_id=c5e4f61e1a6c3b1521b541bc5c5a2ac5&url=https%3A%2F%2Fbookwhisk.com%2F&channel_type=code&origin=livechat&implementation_type=manual_channels&jsonp=__pq2g39qvk6o",
+      "localPath": "assets/js/46c54df0b4c2.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_localization?organization_id=1fd71f88-07d1-4ffe-a242-6522e9e042d2&version=e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0_640ad665de37bb1e8abbb157597f2aed&language=en&x-region=us-south1&group_id=0&jsonp=__lc_localization",
+      "localPath": "assets/js/679690d8583a.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_localization?organization_id=1fd71f88-07d1-4ffe-a242-6522e9e042d2&version=e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0_640ad665de37bb1e8abbb157597f2aed&language=en&x-region=us-south1&group_id=0&jsonp=__lc_localization",
+      "localPath": "assets/js/679690d8583a.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_configuration?organization_id=1fd71f88-07d1-4ffe-a242-6522e9e042d2&version=288.0.3.12.25.39.7.6.1.1.1.4.1&x-region=us-south1&group_id=0&jsonp=__lc_static_config",
+      "localPath": "assets/js/e4c719a056f6.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_configuration?organization_id=1fd71f88-07d1-4ffe-a242-6522e9e042d2&version=288.0.3.12.25.39.7.6.1.1.1.4.1&x-region=us-south1&group_id=0&jsonp=__lc_static_config",
+      "localPath": "assets/js/e4c719a056f6.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://cdn.livechatinc.com/widget/static/js/livechat.BFnp0wDD.js",
+      "localPath": "widget/static/js/livechat.BFnp0wDD.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://cdn.livechatinc.com/widget/static/js/14.DS8hrnED.chunk.js",
+      "localPath": "widget/static/js/14.DS8hrnED.chunk.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://cdn.livechatinc.com/widget/static/js/13.C4JPi_s-.chunk.js",
+      "localPath": "widget/static/js/13.C4JPi_s-.chunk.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://cdn.livechatinc.com/widget/static/js/15.wFspt2oo.chunk.js",
+      "localPath": "widget/static/js/15.wFspt2oo.chunk.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://cdn.livechatinc.com/widget/static/js/0.f4rL7MNE.chunk.js",
+      "localPath": "widget/static/js/0.f4rL7MNE.chunk.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://cdn.livechatinc.com/widget/static/js/16.qYTqns9Q.chunk.js",
+      "localPath": "widget/static/js/16.qYTqns9Q.chunk.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://cdn.livechatinc.com/widget/static/js/3.CJvEkDRx.chunk.js",
+      "localPath": "widget/static/js/3.CJvEkDRx.chunk.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://cdn.livechatinc.com/widget/static/js/7.hewkgq2v.chunk.js",
+      "localPath": "widget/static/js/7.hewkgq2v.chunk.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://cdn.livechatinc.com/widget/static/js/1.xhyEK0_l.chunk.js",
+      "localPath": "widget/static/js/1.xhyEK0_l.chunk.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://cdn.livechatinc.com/widget/static/js/2.pu7iWzia.chunk.js",
+      "localPath": "widget/static/js/2.pu7iWzia.chunk.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://cdn.livechatinc.com/widget/static/js/6.qkvSBLlE.chunk.js",
+      "localPath": "widget/static/js/6.qkvSBLlE.chunk.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://cdn.livechatinc.com/widget/static/js/8.al-9NYxR.chunk.js",
+      "localPath": "widget/static/js/8.al-9NYxR.chunk.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://cdn.livechatinc.com/widget/static/js/9.T8jxAxgZ.chunk.js",
+      "localPath": "widget/static/js/9.T8jxAxgZ.chunk.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://cdn.livechatinc.com/widget/static/js/11.B3fUjdgI.chunk.js",
+      "localPath": "widget/static/js/11.B3fUjdgI.chunk.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://cdn.livechatinc.com/widget/static/js/10.BORa1An7.chunk.js",
+      "localPath": "widget/static/js/10.BORa1An7.chunk.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://www.google.com.pk/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&ngs=1&ibt=1&tid=G-0YLPWB348V&cid=1376975448.1791312618&gtm=45je6a50v9255813038za200zb9233195202zd9233195202xf1&rcb=19&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938469~118012009~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121125487~121280970&z=1711922208",
+      "localPath": "assets/img/23fe008cc57d.gif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://www.google.com.pk/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&ngs=1&ibt=1&tid=G-0YLPWB348V&cid=1376975448.1791312618&gtm=45je6a50v9255813038za200zb9233195202zd9233195202xf1&rcb=19&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938469~118012009~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121125487~121280970&z=1711922208",
+      "localPath": "assets/img/23fe008cc57d.gif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/manifest.json",
+      "localPath": "manifest.json",
+      "kind": "other"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/favicon.ico?70bb4bdf968b0d1b",
+      "localPath": "favicon.ico",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/favicon.ico?70bb4bdf968b0d1b",
+      "localPath": "favicon.ico",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/icon0.svg?6e579e03ca972347",
+      "localPath": "icon0.svg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/icon0.svg?6e579e03ca972347",
+      "localPath": "icon0.svg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/apple-icon.png?d1ecf2955d44cc45",
+      "localPath": "apple-icon.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/apple-icon.png?d1ecf2955d44cc45",
+      "localPath": "apple-icon.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/icon1.png?0b57a8d81053f044",
+      "localPath": "icon1.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/icon1.png?0b57a8d81053f044",
+      "localPath": "icon1.png",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+      "localPath": "_next/static/chunks/polyfills-42372ed130431b0a.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/logo.65782874.avif",
+      "localPath": "_next/static/media/logo.65782874.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/laptop-1-1280.avif",
+      "localPath": "imgs/generated/laptop-1-1280.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/1-480.avif",
+      "localPath": "imgs/generated/books/1-480.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/2-480.avif",
+      "localPath": "imgs/generated/books/2-480.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/4-480.avif",
+      "localPath": "imgs/generated/books/4-480.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/3-480.avif",
+      "localPath": "imgs/generated/books/3-480.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/7-480.avif",
+      "localPath": "imgs/generated/books/7-480.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/5-480.avif",
+      "localPath": "imgs/generated/books/5-480.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/6-480.avif",
+      "localPath": "imgs/generated/books/6-480.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/s1-1280.avif",
+      "localPath": "imgs/generated/s1-1280.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/8-480.avif",
+      "localPath": "imgs/generated/books/8-480.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/ser_1-960.avif",
+      "localPath": "imgs/generated/ser_1-960.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/11-480.avif",
+      "localPath": "imgs/generated/books/11-480.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/10-480.avif",
+      "localPath": "imgs/generated/books/10-480.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/9-480.avif",
+      "localPath": "imgs/generated/books/9-480.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/12-480.avif",
+      "localPath": "imgs/generated/books/12-480.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/31-480.avif",
+      "localPath": "imgs/generated/books/31-480.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/13-480.avif",
+      "localPath": "imgs/generated/books/13-480.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/33-480.avif",
+      "localPath": "imgs/generated/books/33-480.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/32-480.avif",
+      "localPath": "imgs/generated/books/32-480.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/34-480.avif",
+      "localPath": "imgs/generated/books/34-480.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m2.55d5758f.avif",
+      "localPath": "_next/static/media/m2.55d5758f.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m2.55d5758f.avif",
+      "localPath": "_next/static/media/m2.55d5758f.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m1.353c4f54.avif",
+      "localPath": "_next/static/media/m1.353c4f54.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m1.353c4f54.avif",
+      "localPath": "_next/static/media/m1.353c4f54.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m3.40b4a3b5.avif",
+      "localPath": "_next/static/media/m3.40b4a3b5.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m3.40b4a3b5.avif",
+      "localPath": "_next/static/media/m3.40b4a3b5.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m4.843d4e77.avif",
+      "localPath": "_next/static/media/m4.843d4e77.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m4.843d4e77.avif",
+      "localPath": "_next/static/media/m4.843d4e77.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m5.05c8c295.avif",
+      "localPath": "_next/static/media/m5.05c8c295.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m5.05c8c295.avif",
+      "localPath": "_next/static/media/m5.05c8c295.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w1.bed6ffe1.avif",
+      "localPath": "_next/static/media/w1.bed6ffe1.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w1.bed6ffe1.avif",
+      "localPath": "_next/static/media/w1.bed6ffe1.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m7.8aff5820.avif",
+      "localPath": "_next/static/media/m7.8aff5820.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m7.8aff5820.avif",
+      "localPath": "_next/static/media/m7.8aff5820.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m6.b5f3cfc5.avif",
+      "localPath": "_next/static/media/m6.b5f3cfc5.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m6.b5f3cfc5.avif",
+      "localPath": "_next/static/media/m6.b5f3cfc5.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m8.6a87db7a.avif",
+      "localPath": "_next/static/media/m8.6a87db7a.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m8.6a87db7a.avif",
+      "localPath": "_next/static/media/m8.6a87db7a.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w2.e8a0fc21.avif",
+      "localPath": "_next/static/media/w2.e8a0fc21.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w2.e8a0fc21.avif",
+      "localPath": "_next/static/media/w2.e8a0fc21.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w3.9cc62cff.avif",
+      "localPath": "_next/static/media/w3.9cc62cff.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w3.9cc62cff.avif",
+      "localPath": "_next/static/media/w3.9cc62cff.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w4.f6b9a839.avif",
+      "localPath": "_next/static/media/w4.f6b9a839.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w4.f6b9a839.avif",
+      "localPath": "_next/static/media/w4.f6b9a839.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w5.4dbc192f.avif",
+      "localPath": "_next/static/media/w5.4dbc192f.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w5.4dbc192f.avif",
+      "localPath": "_next/static/media/w5.4dbc192f.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w6.9481b506.avif",
+      "localPath": "_next/static/media/w6.9481b506.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w6.9481b506.avif",
+      "localPath": "_next/static/media/w6.9481b506.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m9.7c7666d7.avif",
+      "localPath": "_next/static/media/m9.7c7666d7.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m9.7c7666d7.avif",
+      "localPath": "_next/static/media/m9.7c7666d7.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w7.54de5a98.avif",
+      "localPath": "_next/static/media/w7.54de5a98.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w7.54de5a98.avif",
+      "localPath": "_next/static/media/w7.54de5a98.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m10.93525d59.avif",
+      "localPath": "_next/static/media/m10.93525d59.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m10.93525d59.avif",
+      "localPath": "_next/static/media/m10.93525d59.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m11.f69692aa.avif",
+      "localPath": "_next/static/media/m11.f69692aa.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m11.f69692aa.avif",
+      "localPath": "_next/static/media/m11.f69692aa.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w8.141cca8f.avif",
+      "localPath": "_next/static/media/w8.141cca8f.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w8.141cca8f.avif",
+      "localPath": "_next/static/media/w8.141cca8f.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m12.5b3f5658.avif",
+      "localPath": "_next/static/media/m12.5b3f5658.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m12.5b3f5658.avif",
+      "localPath": "_next/static/media/m12.5b3f5658.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/logo.65782874.avif",
+      "localPath": "_next/static/media/logo.65782874.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/mc.8057c78f.svg",
+      "localPath": "_next/static/media/mc.8057c78f.svg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/v.81b7f3ff.svg",
+      "localPath": "_next/static/media/v.81b7f3ff.svg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/pp.3d4af1b0.svg",
+      "localPath": "_next/static/media/pp.3d4af1b0.svg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/s.e90b1b65.svg",
+      "localPath": "_next/static/media/s.e90b1b65.svg",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/logo.65782874.avif",
+      "localPath": "_next/static/media/logo.65782874.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/logo.65782874.avif",
+      "localPath": "_next/static/media/logo.65782874.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/logo.65782874.avif",
+      "localPath": "_next/static/media/logo.65782874.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/logo.65782874.avif",
+      "localPath": "_next/static/media/logo.65782874.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/logo.65782874.avif",
+      "localPath": "_next/static/media/logo.65782874.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/logo.65782874.avif",
+      "localPath": "_next/static/media/logo.65782874.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/logo.65782874.avif",
+      "localPath": "_next/static/media/logo.65782874.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/logo.65782874.avif",
+      "localPath": "_next/static/media/logo.65782874.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/logo.65782874.avif",
+      "localPath": "_next/static/media/logo.65782874.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/logo.65782874.avif",
+      "localPath": "_next/static/media/logo.65782874.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/logo.65782874.avif",
+      "localPath": "_next/static/media/logo.65782874.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/logo.65782874.avif",
+      "localPath": "_next/static/media/logo.65782874.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/logo.65782874.avif",
+      "localPath": "_next/static/media/logo.65782874.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/laptop-1-320.avif",
+      "localPath": "imgs/generated/laptop-1-320.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/laptop-1-480.avif",
+      "localPath": "imgs/generated/laptop-1-480.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/1-160.avif",
+      "localPath": "imgs/generated/books/1-160.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/1-320.avif",
+      "localPath": "imgs/generated/books/1-320.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/laptop-1-960.avif",
+      "localPath": "imgs/generated/laptop-1-960.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/2-160.avif",
+      "localPath": "imgs/generated/books/2-160.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/3-160.avif",
+      "localPath": "imgs/generated/books/3-160.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/2-320.avif",
+      "localPath": "imgs/generated/books/2-320.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/3-320.avif",
+      "localPath": "imgs/generated/books/3-320.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/4-160.avif",
+      "localPath": "imgs/generated/books/4-160.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/4-320.avif",
+      "localPath": "imgs/generated/books/4-320.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/5-160.avif",
+      "localPath": "imgs/generated/books/5-160.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/6-160.avif",
+      "localPath": "imgs/generated/books/6-160.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/5-320.avif",
+      "localPath": "imgs/generated/books/5-320.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/6-320.avif",
+      "localPath": "imgs/generated/books/6-320.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/7-320.avif",
+      "localPath": "imgs/generated/books/7-320.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/7-160.avif",
+      "localPath": "imgs/generated/books/7-160.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/8-160.avif",
+      "localPath": "imgs/generated/books/8-160.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/ser_1-320.avif",
+      "localPath": "imgs/generated/ser_1-320.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/8-320.avif",
+      "localPath": "imgs/generated/books/8-320.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/ser_1-480.avif",
+      "localPath": "imgs/generated/ser_1-480.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/s1-480.avif",
+      "localPath": "imgs/generated/s1-480.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/s1-768.avif",
+      "localPath": "imgs/generated/s1-768.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/9-240.avif",
+      "localPath": "imgs/generated/books/9-240.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/9-160.avif",
+      "localPath": "imgs/generated/books/9-160.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/s1-960.avif",
+      "localPath": "imgs/generated/s1-960.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/10-240.avif",
+      "localPath": "imgs/generated/books/10-240.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/9-320.avif",
+      "localPath": "imgs/generated/books/9-320.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/10-160.avif",
+      "localPath": "imgs/generated/books/10-160.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/10-320.avif",
+      "localPath": "imgs/generated/books/10-320.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/11-240.avif",
+      "localPath": "imgs/generated/books/11-240.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/11-160.avif",
+      "localPath": "imgs/generated/books/11-160.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/11-320.avif",
+      "localPath": "imgs/generated/books/11-320.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/12-160.avif",
+      "localPath": "imgs/generated/books/12-160.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/12-240.avif",
+      "localPath": "imgs/generated/books/12-240.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/12-320.avif",
+      "localPath": "imgs/generated/books/12-320.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/13-160.avif",
+      "localPath": "imgs/generated/books/13-160.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/13-240.avif",
+      "localPath": "imgs/generated/books/13-240.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/13-320.avif",
+      "localPath": "imgs/generated/books/13-320.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/31-160.avif",
+      "localPath": "imgs/generated/books/31-160.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/31-240.avif",
+      "localPath": "imgs/generated/books/31-240.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/31-320.avif",
+      "localPath": "imgs/generated/books/31-320.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/32-240.avif",
+      "localPath": "imgs/generated/books/32-240.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/32-160.avif",
+      "localPath": "imgs/generated/books/32-160.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/33-160.avif",
+      "localPath": "imgs/generated/books/33-160.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/33-240.avif",
+      "localPath": "imgs/generated/books/33-240.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/32-320.avif",
+      "localPath": "imgs/generated/books/32-320.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/34-240.avif",
+      "localPath": "imgs/generated/books/34-240.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/33-320.avif",
+      "localPath": "imgs/generated/books/33-320.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/34-160.avif",
+      "localPath": "imgs/generated/books/34-160.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m1.353c4f54.avif",
+      "localPath": "_next/static/media/m1.353c4f54.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m2.55d5758f.avif",
+      "localPath": "_next/static/media/m2.55d5758f.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/generated/books/34-320.avif",
+      "localPath": "imgs/generated/books/34-320.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m3.40b4a3b5.avif",
+      "localPath": "_next/static/media/m3.40b4a3b5.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m4.843d4e77.avif",
+      "localPath": "_next/static/media/m4.843d4e77.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m5.05c8c295.avif",
+      "localPath": "_next/static/media/m5.05c8c295.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w1.bed6ffe1.avif",
+      "localPath": "_next/static/media/w1.bed6ffe1.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m6.b5f3cfc5.avif",
+      "localPath": "_next/static/media/m6.b5f3cfc5.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m7.8aff5820.avif",
+      "localPath": "_next/static/media/m7.8aff5820.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m8.6a87db7a.avif",
+      "localPath": "_next/static/media/m8.6a87db7a.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w2.e8a0fc21.avif",
+      "localPath": "_next/static/media/w2.e8a0fc21.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w3.9cc62cff.avif",
+      "localPath": "_next/static/media/w3.9cc62cff.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w4.f6b9a839.avif",
+      "localPath": "_next/static/media/w4.f6b9a839.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w5.4dbc192f.avif",
+      "localPath": "_next/static/media/w5.4dbc192f.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w6.9481b506.avif",
+      "localPath": "_next/static/media/w6.9481b506.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m9.7c7666d7.avif",
+      "localPath": "_next/static/media/m9.7c7666d7.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w7.54de5a98.avif",
+      "localPath": "_next/static/media/w7.54de5a98.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m10.93525d59.avif",
+      "localPath": "_next/static/media/m10.93525d59.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m11.f69692aa.avif",
+      "localPath": "_next/static/media/m11.f69692aa.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/w8.141cca8f.avif",
+      "localPath": "_next/static/media/w8.141cca8f.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/m12.5b3f5658.avif",
+      "localPath": "_next/static/media/m12.5b3f5658.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/app/services/page-acc23d1d9a547814.js",
+      "localPath": "_next/static/chunks/app/services/page-acc23d1d9a547814.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/sp.a7973702.avif",
+      "localPath": "_next/static/media/sp.a7973702.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/sp.a7973702.avif",
+      "localPath": "_next/static/media/sp.a7973702.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/serv_hero.d4e0a530.avif",
+      "localPath": "_next/static/media/serv_hero.d4e0a530.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/serv_hero.d4e0a530.avif",
+      "localPath": "_next/static/media/serv_hero.d4e0a530.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/wc.aa87b028.avif",
+      "localPath": "_next/static/media/wc.aa87b028.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/wc.aa87b028.avif",
+      "localPath": "_next/static/media/wc.aa87b028.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/bc.96989936.avif",
+      "localPath": "_next/static/media/bc.96989936.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/bc.96989936.avif",
+      "localPath": "_next/static/media/bc.96989936.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/be.00e67e1b.avif",
+      "localPath": "_next/static/media/be.00e67e1b.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/be.00e67e1b.avif",
+      "localPath": "_next/static/media/be.00e67e1b.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/pg.cae9d2be.avif",
+      "localPath": "_next/static/media/pg.cae9d2be.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/pg.cae9d2be.avif",
+      "localPath": "_next/static/media/pg.cae9d2be.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/bf.589a13cc.avif",
+      "localPath": "_next/static/media/bf.589a13cc.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/bf.589a13cc.avif",
+      "localPath": "_next/static/media/bf.589a13cc.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/ab.7a6290c4.avif",
+      "localPath": "_next/static/media/ab.7a6290c4.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/ab.7a6290c4.avif",
+      "localPath": "_next/static/media/ab.7a6290c4.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/gw.178af323.avif",
+      "localPath": "_next/static/media/gw.178af323.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/gw.178af323.avif",
+      "localPath": "_next/static/media/gw.178af323.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/bm.264cd3ba.avif",
+      "localPath": "_next/static/media/bm.264cd3ba.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/bm.264cd3ba.avif",
+      "localPath": "_next/static/media/bm.264cd3ba.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/bd.525c6402.avif",
+      "localPath": "_next/static/media/bd.525c6402.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/bd.525c6402.avif",
+      "localPath": "_next/static/media/bd.525c6402.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/bt.27b15723.avif",
+      "localPath": "_next/static/media/bt.27b15723.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/bt.27b15723.avif",
+      "localPath": "_next/static/media/bt.27b15723.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/serv_hero.d4e0a530.avif",
+      "localPath": "_next/static/media/serv_hero.d4e0a530.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/sp.a7973702.avif",
+      "localPath": "_next/static/media/sp.a7973702.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/wc.aa87b028.avif",
+      "localPath": "_next/static/media/wc.aa87b028.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/be.00e67e1b.avif",
+      "localPath": "_next/static/media/be.00e67e1b.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/bc.96989936.avif",
+      "localPath": "_next/static/media/bc.96989936.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/pg.cae9d2be.avif",
+      "localPath": "_next/static/media/pg.cae9d2be.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/bf.589a13cc.avif",
+      "localPath": "_next/static/media/bf.589a13cc.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/ab.7a6290c4.avif",
+      "localPath": "_next/static/media/ab.7a6290c4.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/gw.178af323.avif",
+      "localPath": "_next/static/media/gw.178af323.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/bm.264cd3ba.avif",
+      "localPath": "_next/static/media/bm.264cd3ba.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/bd.525c6402.avif",
+      "localPath": "_next/static/media/bd.525c6402.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/bt.27b15723.avif",
+      "localPath": "_next/static/media/bt.27b15723.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/serv_hero.d4e0a530.avif",
+      "localPath": "_next/static/media/serv_hero.d4e0a530.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/serv_hero.d4e0a530.avif",
+      "localPath": "_next/static/media/serv_hero.d4e0a530.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/serv_hero.d4e0a530.avif",
+      "localPath": "_next/static/media/serv_hero.d4e0a530.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/serv_hero.d4e0a530.avif",
+      "localPath": "_next/static/media/serv_hero.d4e0a530.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/serv_hero.d4e0a530.avif",
+      "localPath": "_next/static/media/serv_hero.d4e0a530.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/serv_hero.d4e0a530.avif",
+      "localPath": "_next/static/media/serv_hero.d4e0a530.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/serv_hero.d4e0a530.avif",
+      "localPath": "_next/static/media/serv_hero.d4e0a530.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/serv_hero.d4e0a530.avif",
+      "localPath": "_next/static/media/serv_hero.d4e0a530.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/css/412f323dd7caea89.css",
+      "localPath": "_next/static/css/412f323dd7caea89.css",
+      "kind": "css"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/child-banner.05cb57c4.avif",
+      "localPath": "_next/static/media/child-banner.05cb57c4.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/child-banner.05cb57c4.avif",
+      "localPath": "_next/static/media/child-banner.05cb57c4.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/859-b5272044087b4dbf.js",
+      "localPath": "_next/static/chunks/859-b5272044087b4dbf.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/app/childrens-book-publishing/page-2e221a0dd545a845.js",
+      "localPath": "_next/static/chunks/app/childrens-book-publishing/page-2e221a0dd545a845.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/child-sec2.72993416.avif",
+      "localPath": "_next/static/media/child-sec2.72993416.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/child-sec2.72993416.avif",
+      "localPath": "_next/static/media/child-sec2.72993416.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/sec4.27d20ac9.avif",
+      "localPath": "_next/static/media/sec4.27d20ac9.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/sec4.27d20ac9.avif",
+      "localPath": "_next/static/media/sec4.27d20ac9.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_dynamic_configuration?x-region=us-south1&license_id=19452997&client_id=c5e4f61e1a6c3b1521b541bc5c5a2ac5&url=https%3A%2F%2Fbookwhisk.com%2Fchildrens-book-publishing&channel_type=code&origin=livechat&implementation_type=manual_channels&jsonp=__2vevlccro7y",
+      "localPath": "assets/js/2be283169ae4.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/1.cb45fa6e.avif",
+      "localPath": "_next/static/media/1.cb45fa6e.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/1.cb45fa6e.avif",
+      "localPath": "_next/static/media/1.cb45fa6e.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/8.f0de3b1a.avif",
+      "localPath": "_next/static/media/8.f0de3b1a.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/8.f0de3b1a.avif",
+      "localPath": "_next/static/media/8.f0de3b1a.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/2.25da0f77.avif",
+      "localPath": "_next/static/media/2.25da0f77.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/2.25da0f77.avif",
+      "localPath": "_next/static/media/2.25da0f77.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/7.1b20623c.avif",
+      "localPath": "_next/static/media/7.1b20623c.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/7.1b20623c.avif",
+      "localPath": "_next/static/media/7.1b20623c.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/6.4e830d1f.avif",
+      "localPath": "_next/static/media/6.4e830d1f.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/6.4e830d1f.avif",
+      "localPath": "_next/static/media/6.4e830d1f.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/3.21e6b208.avif",
+      "localPath": "_next/static/media/3.21e6b208.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/3.21e6b208.avif",
+      "localPath": "_next/static/media/3.21e6b208.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/4.e9a857f6.avif",
+      "localPath": "_next/static/media/4.e9a857f6.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/4.e9a857f6.avif",
+      "localPath": "_next/static/media/4.e9a857f6.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/child-banner.05cb57c4.avif",
+      "localPath": "_next/static/media/child-banner.05cb57c4.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/5.70021feb.avif",
+      "localPath": "_next/static/media/5.70021feb.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/5.70021feb.avif",
+      "localPath": "_next/static/media/5.70021feb.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/child-sec2.72993416.avif",
+      "localPath": "_next/static/media/child-sec2.72993416.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/sec4.27d20ac9.avif",
+      "localPath": "_next/static/media/sec4.27d20ac9.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/1.cb45fa6e.avif",
+      "localPath": "_next/static/media/1.cb45fa6e.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/2.25da0f77.avif",
+      "localPath": "_next/static/media/2.25da0f77.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/3.21e6b208.avif",
+      "localPath": "_next/static/media/3.21e6b208.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/4.e9a857f6.avif",
+      "localPath": "_next/static/media/4.e9a857f6.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/5.70021feb.avif",
+      "localPath": "_next/static/media/5.70021feb.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/6.4e830d1f.avif",
+      "localPath": "_next/static/media/6.4e830d1f.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/7.1b20623c.avif",
+      "localPath": "_next/static/media/7.1b20623c.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/8.f0de3b1a.avif",
+      "localPath": "_next/static/media/8.f0de3b1a.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/child-banner.05cb57c4.avif",
+      "localPath": "_next/static/media/child-banner.05cb57c4.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/child-banner.05cb57c4.avif",
+      "localPath": "_next/static/media/child-banner.05cb57c4.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/child-banner.05cb57c4.avif",
+      "localPath": "_next/static/media/child-banner.05cb57c4.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/child-banner.05cb57c4.avif",
+      "localPath": "_next/static/media/child-banner.05cb57c4.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/child-banner.05cb57c4.avif",
+      "localPath": "_next/static/media/child-banner.05cb57c4.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/child-sec2.72993416.avif",
+      "localPath": "_next/static/media/child-sec2.72993416.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/child-sec2.72993416.avif",
+      "localPath": "_next/static/media/child-sec2.72993416.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/child-sec2.72993416.avif",
+      "localPath": "_next/static/media/child-sec2.72993416.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/child-sec2.72993416.avif",
+      "localPath": "_next/static/media/child-sec2.72993416.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/child-sec2.72993416.avif",
+      "localPath": "_next/static/media/child-sec2.72993416.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/child-sec2.72993416.avif",
+      "localPath": "_next/static/media/child-sec2.72993416.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/child-sec2.72993416.avif",
+      "localPath": "_next/static/media/child-sec2.72993416.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/child-sec2.72993416.avif",
+      "localPath": "_next/static/media/child-sec2.72993416.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/sec4.27d20ac9.avif",
+      "localPath": "_next/static/media/sec4.27d20ac9.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/sec4.27d20ac9.avif",
+      "localPath": "_next/static/media/sec4.27d20ac9.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/sec4.27d20ac9.avif",
+      "localPath": "_next/static/media/sec4.27d20ac9.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/sec4.27d20ac9.avif",
+      "localPath": "_next/static/media/sec4.27d20ac9.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/sec4.27d20ac9.avif",
+      "localPath": "_next/static/media/sec4.27d20ac9.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/sec4.27d20ac9.avif",
+      "localPath": "_next/static/media/sec4.27d20ac9.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/sec4.27d20ac9.avif",
+      "localPath": "_next/static/media/sec4.27d20ac9.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/sec4.27d20ac9.avif",
+      "localPath": "_next/static/media/sec4.27d20ac9.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/1.cb45fa6e.avif",
+      "localPath": "_next/static/media/1.cb45fa6e.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/1.cb45fa6e.avif",
+      "localPath": "_next/static/media/1.cb45fa6e.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/1.cb45fa6e.avif",
+      "localPath": "_next/static/media/1.cb45fa6e.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/1.cb45fa6e.avif",
+      "localPath": "_next/static/media/1.cb45fa6e.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/1.cb45fa6e.avif",
+      "localPath": "_next/static/media/1.cb45fa6e.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/1.cb45fa6e.avif",
+      "localPath": "_next/static/media/1.cb45fa6e.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/1.cb45fa6e.avif",
+      "localPath": "_next/static/media/1.cb45fa6e.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/2.25da0f77.avif",
+      "localPath": "_next/static/media/2.25da0f77.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/2.25da0f77.avif",
+      "localPath": "_next/static/media/2.25da0f77.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/2.25da0f77.avif",
+      "localPath": "_next/static/media/2.25da0f77.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/2.25da0f77.avif",
+      "localPath": "_next/static/media/2.25da0f77.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/2.25da0f77.avif",
+      "localPath": "_next/static/media/2.25da0f77.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/2.25da0f77.avif",
+      "localPath": "_next/static/media/2.25da0f77.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/2.25da0f77.avif",
+      "localPath": "_next/static/media/2.25da0f77.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/3.21e6b208.avif",
+      "localPath": "_next/static/media/3.21e6b208.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/3.21e6b208.avif",
+      "localPath": "_next/static/media/3.21e6b208.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/3.21e6b208.avif",
+      "localPath": "_next/static/media/3.21e6b208.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/3.21e6b208.avif",
+      "localPath": "_next/static/media/3.21e6b208.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/3.21e6b208.avif",
+      "localPath": "_next/static/media/3.21e6b208.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/3.21e6b208.avif",
+      "localPath": "_next/static/media/3.21e6b208.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/3.21e6b208.avif",
+      "localPath": "_next/static/media/3.21e6b208.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/4.e9a857f6.avif",
+      "localPath": "_next/static/media/4.e9a857f6.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/4.e9a857f6.avif",
+      "localPath": "_next/static/media/4.e9a857f6.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/4.e9a857f6.avif",
+      "localPath": "_next/static/media/4.e9a857f6.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/4.e9a857f6.avif",
+      "localPath": "_next/static/media/4.e9a857f6.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/4.e9a857f6.avif",
+      "localPath": "_next/static/media/4.e9a857f6.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/4.e9a857f6.avif",
+      "localPath": "_next/static/media/4.e9a857f6.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/4.e9a857f6.avif",
+      "localPath": "_next/static/media/4.e9a857f6.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/5.70021feb.avif",
+      "localPath": "_next/static/media/5.70021feb.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/5.70021feb.avif",
+      "localPath": "_next/static/media/5.70021feb.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/5.70021feb.avif",
+      "localPath": "_next/static/media/5.70021feb.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/5.70021feb.avif",
+      "localPath": "_next/static/media/5.70021feb.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/5.70021feb.avif",
+      "localPath": "_next/static/media/5.70021feb.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/5.70021feb.avif",
+      "localPath": "_next/static/media/5.70021feb.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/5.70021feb.avif",
+      "localPath": "_next/static/media/5.70021feb.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/6.4e830d1f.avif",
+      "localPath": "_next/static/media/6.4e830d1f.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/6.4e830d1f.avif",
+      "localPath": "_next/static/media/6.4e830d1f.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/6.4e830d1f.avif",
+      "localPath": "_next/static/media/6.4e830d1f.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/6.4e830d1f.avif",
+      "localPath": "_next/static/media/6.4e830d1f.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/6.4e830d1f.avif",
+      "localPath": "_next/static/media/6.4e830d1f.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/6.4e830d1f.avif",
+      "localPath": "_next/static/media/6.4e830d1f.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/6.4e830d1f.avif",
+      "localPath": "_next/static/media/6.4e830d1f.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/7.1b20623c.avif",
+      "localPath": "_next/static/media/7.1b20623c.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/7.1b20623c.avif",
+      "localPath": "_next/static/media/7.1b20623c.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/7.1b20623c.avif",
+      "localPath": "_next/static/media/7.1b20623c.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/7.1b20623c.avif",
+      "localPath": "_next/static/media/7.1b20623c.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/7.1b20623c.avif",
+      "localPath": "_next/static/media/7.1b20623c.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/7.1b20623c.avif",
+      "localPath": "_next/static/media/7.1b20623c.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/7.1b20623c.avif",
+      "localPath": "_next/static/media/7.1b20623c.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/8.f0de3b1a.avif",
+      "localPath": "_next/static/media/8.f0de3b1a.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/8.f0de3b1a.avif",
+      "localPath": "_next/static/media/8.f0de3b1a.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/8.f0de3b1a.avif",
+      "localPath": "_next/static/media/8.f0de3b1a.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/8.f0de3b1a.avif",
+      "localPath": "_next/static/media/8.f0de3b1a.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/8.f0de3b1a.avif",
+      "localPath": "_next/static/media/8.f0de3b1a.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/8.f0de3b1a.avif",
+      "localPath": "_next/static/media/8.f0de3b1a.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/8.f0de3b1a.avif",
+      "localPath": "_next/static/media/8.f0de3b1a.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/app/about-us/page-1bb757a953b043d9.js",
+      "localPath": "_next/static/chunks/app/about-us/page-1bb757a953b043d9.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_dynamic_configuration?x-region=us-south1&license_id=19452997&client_id=c5e4f61e1a6c3b1521b541bc5c5a2ac5&url=https%3A%2F%2Fbookwhisk.com%2Fabout-us&channel_type=code&origin=livechat&implementation_type=manual_channels&jsonp=__g4d60j47vgv",
+      "localPath": "assets/js/2c3f655b5834.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/579-315a1b5aead70893.js",
+      "localPath": "_next/static/chunks/579-315a1b5aead70893.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/app/signup/page-a51f5072eb87e639.js",
+      "localPath": "_next/static/chunks/app/signup/page-a51f5072eb87e639.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_dynamic_configuration?x-region=us-south1&license_id=19452997&client_id=c5e4f61e1a6c3b1521b541bc5c5a2ac5&url=https%3A%2F%2Fbookwhisk.com%2Fsignup&channel_type=code&origin=livechat&implementation_type=manual_channels&jsonp=__jw9hf804lx",
+      "localPath": "assets/js/28be47816255.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/app/contact/page-39ff0b5bafd08d0a.js",
+      "localPath": "_next/static/chunks/app/contact/page-39ff0b5bafd08d0a.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_dynamic_configuration?x-region=us-south1&license_id=19452997&client_id=c5e4f61e1a6c3b1521b541bc5c5a2ac5&url=https%3A%2F%2Fbookwhisk.com%2Fcontact&channel_type=code&origin=livechat&implementation_type=manual_channels&jsonp=__xxdor4328kg",
+      "localPath": "assets/js/a1ae5b219e67.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/910-52993a151c383c65.js",
+      "localPath": "_next/static/chunks/910-52993a151c383c65.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/app/how-it-works/page-48b0ce1514f2e8a2.js",
+      "localPath": "_next/static/chunks/app/how-it-works/page-48b0ce1514f2e8a2.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/834-f101dd45eb04eb8e.js",
+      "localPath": "_next/static/chunks/834-f101dd45eb04eb8e.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_dynamic_configuration?x-region=us-south1&license_id=19452997&client_id=c5e4f61e1a6c3b1521b541bc5c5a2ac5&url=https%3A%2F%2Fbookwhisk.com%2Fhow-it-works&channel_type=code&origin=livechat&implementation_type=manual_channels&jsonp=__zdhpzbi7g6m",
+      "localPath": "assets/js/0f6ff80bbaec.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/14924e61-13f82483c83492e9.js",
+      "localPath": "_next/static/chunks/14924e61-13f82483c83492e9.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/1.bc325c5b.avif",
+      "localPath": "_next/static/media/1.bc325c5b.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/1.bc325c5b.avif",
+      "localPath": "_next/static/media/1.bc325c5b.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/chunks/app/%5Bslug%5D/page-19459c6eb5310226.js",
+      "localPath": "_next/static/chunks/app/[slug]/page-19459c6eb5310226.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/1.bc325c5b.avif",
+      "localPath": "_next/static/media/1.bc325c5b.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_dynamic_configuration?x-region=us-south1&license_id=19452997&client_id=c5e4f61e1a6c3b1521b541bc5c5a2ac5&url=https%3A%2F%2Fbookwhisk.com%2Fself-publishing&channel_type=code&origin=livechat&implementation_type=manual_channels&jsonp=__6040294ghfn",
+      "localPath": "assets/js/b776de5fdedd.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/1.bc325c5b.avif",
+      "localPath": "_next/static/media/1.bc325c5b.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/1.bc325c5b.avif",
+      "localPath": "_next/static/media/1.bc325c5b.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/1.bc325c5b.avif",
+      "localPath": "_next/static/media/1.bc325c5b.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/1.bc325c5b.avif",
+      "localPath": "_next/static/media/1.bc325c5b.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/1.bc325c5b.avif",
+      "localPath": "_next/static/media/1.bc325c5b.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/1.bc325c5b.avif",
+      "localPath": "_next/static/media/1.bc325c5b.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/1.bc325c5b.avif",
+      "localPath": "_next/static/media/1.bc325c5b.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/_next/static/media/1.bc325c5b.avif",
+      "localPath": "_next/static/media/1.bc325c5b.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_dynamic_configuration?x-region=us-south1&license_id=19452997&client_id=c5e4f61e1a6c3b1521b541bc5c5a2ac5&url=https%3A%2F%2Fbookwhisk.com%2Fwriting-assistance&channel_type=code&origin=livechat&implementation_type=manual_channels&jsonp=__7rrkwer7tg8",
+      "localPath": "assets/js/c74016f12e69.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_dynamic_configuration?x-region=us-south1&license_id=19452997&client_id=c5e4f61e1a6c3b1521b541bc5c5a2ac5&url=https%3A%2F%2Fbookwhisk.com%2Fbook-editing&channel_type=code&origin=livechat&implementation_type=manual_channels&jsonp=__9uyy440rihr",
+      "localPath": "assets/js/46668c67f0a6.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_dynamic_configuration?x-region=us-south1&license_id=19452997&client_id=c5e4f61e1a6c3b1521b541bc5c5a2ac5&url=https%3A%2F%2Fbookwhisk.com%2Fbook-cover-design&channel_type=code&origin=livechat&implementation_type=manual_channels&jsonp=__0lcfb2nv5q9",
+      "localPath": "assets/js/73f58b99fe57.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_dynamic_configuration?x-region=us-south1&license_id=19452997&client_id=c5e4f61e1a6c3b1521b541bc5c5a2ac5&url=https%3A%2F%2Fbookwhisk.com%2Fbook-proofreading&channel_type=code&origin=livechat&implementation_type=manual_channels&jsonp=__m7na279cbo",
+      "localPath": "assets/js/2bc10e308feb.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_dynamic_configuration?x-region=us-south1&license_id=19452997&client_id=c5e4f61e1a6c3b1521b541bc5c5a2ac5&url=https%3A%2F%2Fbookwhisk.com%2Faudiobook-publishing-services&channel_type=code&origin=livechat&implementation_type=manual_channels&jsonp=__1gmidnkvysn",
+      "localPath": "assets/js/c8b19d0d0688.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://www.google.com.pk/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&ngs=1&ibt=1&tid=G-0YLPWB348V&cid=1376975448.1791312618&gtm=45je6a50v9255813038za200zb9233195202zd9233195202xf1&rcb=18&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121280970&z=1555401942",
+      "localPath": "assets/img/621c74fd32fb.gif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_dynamic_configuration?x-region=us-south1&license_id=19452997&client_id=c5e4f61e1a6c3b1521b541bc5c5a2ac5&url=https%3A%2F%2Fbookwhisk.com%2Fghostwriting&channel_type=code&origin=livechat&implementation_type=manual_channels&jsonp=__ub4usu6kh4a",
+      "localPath": "assets/js/c4914b5f5b30.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_dynamic_configuration?x-region=us-south1&license_id=19452997&client_id=c5e4f61e1a6c3b1521b541bc5c5a2ac5&url=https%3A%2F%2Fbookwhisk.com%2Fbook-marketing&channel_type=code&origin=livechat&implementation_type=manual_channels&jsonp=__jlub024vuno",
+      "localPath": "assets/js/6e7c616d8d5c.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/map.avif",
+      "localPath": "imgs/map.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/map.avif",
+      "localPath": "imgs/map.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_dynamic_configuration?x-region=us-south1&license_id=19452997&client_id=c5e4f61e1a6c3b1521b541bc5c5a2ac5&url=https%3A%2F%2Fbookwhisk.com%2Fbook-distribution&channel_type=code&origin=livechat&implementation_type=manual_channels&jsonp=__2s734ki5ymu",
+      "localPath": "assets/js/8ebc0c461a4f.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/map.avif",
+      "localPath": "imgs/map.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/map.avif",
+      "localPath": "imgs/map.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/map.avif",
+      "localPath": "imgs/map.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/map.avif",
+      "localPath": "imgs/map.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/map.avif",
+      "localPath": "imgs/map.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://bookwhisk.com/imgs/map.avif",
+      "localPath": "imgs/map.avif",
+      "kind": "img"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_dynamic_configuration?x-region=us-south1&license_id=19452997&client_id=c5e4f61e1a6c3b1521b541bc5c5a2ac5&url=https%3A%2F%2Fbookwhisk.com%2Fbook-translation-services&channel_type=code&origin=livechat&implementation_type=manual_channels&jsonp=__t4ugfyoljbp",
+      "localPath": "assets/js/39aaa265525d.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_dynamic_configuration?x-region=us-south1&license_id=19452997&client_id=c5e4f61e1a6c3b1521b541bc5c5a2ac5&url=https%3A%2F%2Fbookwhisk.com%2Fprivacy-policy&channel_type=code&origin=livechat&implementation_type=manual_channels&jsonp=__y7gwvlbpmxm",
+      "localPath": "assets/js/3b9c946ab46d.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_dynamic_configuration?x-region=us-south1&license_id=19452997&client_id=c5e4f61e1a6c3b1521b541bc5c5a2ac5&url=https%3A%2F%2Fbookwhisk.com%2Fterms-and-conditions&channel_type=code&origin=livechat&implementation_type=manual_channels&jsonp=__tacmrcnyd8l",
+      "localPath": "assets/js/7a3a6432340f.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://api.livechatinc.com/v3.6/customer/action/get_dynamic_configuration?x-region=us-south1&license_id=19452997&client_id=c5e4f61e1a6c3b1521b541bc5c5a2ac5&url=https%3A%2F%2Fbookwhisk.com%2Fbook-formatting&channel_type=code&origin=livechat&implementation_type=manual_channels&jsonp=__u0grbqthg9g",
+      "localPath": "assets/js/ef16cddef110.js",
+      "kind": "js"
+    },
+    {
+      "remoteUrl": "https://www.google.com.pk/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&ngs=1&ibt=1&tid=G-0YLPWB348V&cid=1376975448.1791312618&gtm=45je6a50v9255813038za200zb9233195202zd9233195202xf1&rcb=1&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938469~118897920~118897930~119793973~120213116~120385423~120469145~120469153~121046263~121046271~121280970&z=1866070631",
+      "localPath": "assets/img/ad79e14d4752.gif",
+      "kind": "img"
+    }
+  ],
+  "warnings": [
+    "Skipped tracking asset: https://www.googletagmanager.com/gtag/js?id=AW-17674619114",
+    "Skipped tracking asset: https://www.google.com/rmkt/collect/17674619114/?random=1791312613171&cv=11&fst=1791312613171&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121125487~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2F&rcb=5&frm=0&tiba=BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "Skipped tracking asset: https://www.google.com/ccm/collect?rcb=5&frm=0&apvc=1&auid=905666407.1791312613&dt=BookWhisk%20-%20Self-Publishing%20Facilitators&tid=AW-17674619114&en=page_view&dl=https%3A%2F%2Fbookwhisk.com%2F&scrsrc=www.googletagmanager.com&rnd=584701455.1791312613&navt=n&npa=0&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121125487~121280970&tft=1791312613228&tfd=1619&tids=AW-17674619114&fmt=8",
+    "Skipped tracking asset: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17674619114/?random=1791312613171&cv=11&fst=1791312613171&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121125487~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2F&rcb=5&frm=0&tiba=BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "Skipped tracking asset: https://ad.doubleclick.net/ccm/s/collect?auid=905666407.1791312613&gtm=45be6a50v9233195202za200zd9233195202xecxf1&fmt=8",
+    "Skipped tracking asset: https://www.google.com/pagead/1p-user-list/17674619114/?random=1791312613171&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121125487~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2F&rcb=5&frm=0&tiba=BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEAQM4h3JwMuRuaYdYWhksZe5YTp5jUrQLf_evrXjGblMjdMEypBUWc1T0L3eBqCToCU7x2-oAj_FmYMR8S6zOT0JHNIgWrpJ9jHTOoJNE1rFKM-sOnTmw-THxF80On0CzP6S7Z9GOkrO_gnAkpFWb80v57JnWqb_X-Lj0oqKqApzvk15UC2DRIiyqICkpA-Q6jASpGLc4gCd4xSGiP1Iirz-15qSkMD53iaWTg0GCB6YNDnLeLXkkZAnnnzkiR1vM24Ih3URvMsdKLoz7qqt5F8eTZbw&random=3182227628&rmt_tld=0&ipr=y",
+    "Skipped tracking asset: https://www.google.com.pk/pagead/1p-user-list/17674619114/?random=1791312613171&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121125487~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2F&rcb=5&frm=0&tiba=BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEAQM4h3JwMuRuaYdYWhksZe5YTp5jUrQLf_evrXjGblMjdMEypBUWc1T0L3eBqCToCU7x2-oAj_FmYMR8S6zOT0JHNIgWrpJ9jHTOoJNE1rFKM-sOnTmw-THxF80On0CzP6S7Z9GOkrO_gnAkpFWb80v57JnWqb_X-Lj0oqKqApzvk15UC2DRIiyqICkpA-Q6jASpGLc4gCd4xSGiP1Iirz-15qSkMD53iaWTg0GCB6YNDnLeLXkkZAnnnzkiR1vM24Ih3URvMsdKLoz7qqt5F8eTZbw&random=3182227628&rmt_tld=1&ipr=y",
+    "Skipped tracking asset: https://www.googletagmanager.com/gtag/js?id=G-0YLPWB348V&cx=c&gtm=4e6a50",
+    "Failed to download (404): https://accounts.livechatinc.com/v2/customer/token",
+    "Skipped tracking asset: https://analytics.google.com/g/collect?v=2&tid=G-0YLPWB348V&gtm=45je6a50v9255813038za200zb9233195202zd9233195202xf1&_p=1791312613077&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAACAC&are=1&cid=1376975448.1791312618&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=19&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=1&tag_exp=115938465~115938469~118012009~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121125487~121280970&sid=1791312618&sct=1&seg=0&dl=https%3A%2F%2Fbookwhisk.com%2F&dt=BookWhisk%20-%20Self-Publishing%20Facilitators&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&ep.anonymize_ip=true&tfd=6828",
+    "Skipped tracking asset: https://stats.g.doubleclick.net/g/collect?v=2&ngs=1&ibt=1&tid=G-0YLPWB348V&cid=1376975448.1791312618&gtm=45je6a50v9255813038za200zb9233195202zd9233195202xf1&rcb=19&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938469~118012009~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121125487~121280970",
+    "Failed to download (403): https://api.livechatinc.com/",
+    "Skipped tracking asset: https://www.google.com/ccm/collect?rcb=2&frm=0&apvc=1&auid=905666407.1791312613&dt=Services%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&tid=AW-17674619114&en=page_view&dl=https%3A%2F%2Fbookwhisk.com%2Fservices&scrsrc=www.googletagmanager.com&rnd=80614434.1791312621&navt=n&npa=0&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121280969&tft=1791312620756&tfd=565&tids=AW-17674619114&fmt=8",
+    "Skipped tracking asset: https://www.google.com/rmkt/collect/17674619114/?random=1791312620727&cv=11&fst=1791312620727&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121280969&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fservices&rcb=2&frm=0&tiba=Services%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "Skipped tracking asset: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17674619114/?random=1791312620727&cv=11&fst=1791312620727&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121280969&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fservices&rcb=2&frm=0&tiba=Services%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "Skipped tracking asset: https://www.google.com.pk/pagead/1p-user-list/17674619114/?random=1791312620727&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121280969&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fservices&rcb=2&frm=0&tiba=Services%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3Ax8P9SzntdO_0-oxpFIGkAZdDno3PhisZem96RrUblOODbdtKbZVZgxP15iMnBTGjJNiAwPtRXUQD8NC69o8QxG9kXmbO1tKPKSJzrsUs-NartZbPOrrbWlFHzHEJmmaceGntj6OiAgpZBY49seXYGtdUEEv_fbqo17PbN-ilTnC-TxYWEH-MbSJKk_y26SFPOmxMRzRKYE6ZFIZsoe-l4VfIYSPIl30W6mvTKw-Uypi-4dsXWh12Rik54ZIv3O3SATYAsGKEECTpTFThDq84dk70uzpK8b45jxIcTX&random=1776186657&rmt_tld=1&ipr=y",
+    "Skipped tracking asset: https://www.google.com/pagead/1p-user-list/17674619114/?random=1791312620727&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121280969&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fservices&rcb=2&frm=0&tiba=Services%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3Ax8P9SzntdO_0-oxpFIGkAZdDno3PhisZem96RrUblOODbdtKbZVZgxP15iMnBTGjJNiAwPtRXUQD8NC69o8QxG9kXmbO1tKPKSJzrsUs-NartZbPOrrbWlFHzHEJmmaceGntj6OiAgpZBY49seXYGtdUEEv_fbqo17PbN-ilTnC-TxYWEH-MbSJKk_y26SFPOmxMRzRKYE6ZFIZsoe-l4VfIYSPIl30W6mvTKw-Uypi-4dsXWh12Rik54ZIv3O3SATYAsGKEECTpTFThDq84dk70uzpK8b45jxIcTX&random=1776186657&rmt_tld=0&ipr=y",
+    "Error downloading https://api.livechatinc.com/v3.6/customer/action/get_dynamic_configuration?x-region=us-south1&license_id=19452997&client_id=c5e4f61e1a6c3b1521b541bc5c5a2ac5&url=https%3A%2F%2Fbookwhisk.com%2Fservices&channel_type=code&origin=livechat&implementation_type=manual_channels&jsonp=__qzgo87o2kxo: fetch failed",
+    "Skipped tracking asset: https://www.google.com/ccm/collect?rcb=15&frm=0&apvc=1&auid=905666407.1791312613&dt=Childrens%20Book%20Publishing%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&tid=AW-17674619114&en=page_view&dl=https%3A%2F%2Fbookwhisk.com%2Fchildrens-book-publishing&scrsrc=www.googletagmanager.com&rnd=957283539.1791312627&navt=n&npa=0&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938468~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271&tft=1791312626979&tfd=1746&tids=AW-17674619114&fmt=8",
+    "Skipped tracking asset: https://www.google.com/rmkt/collect/17674619114/?random=1791312626950&cv=11&fst=1791312626950&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938468~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fchildrens-book-publishing&rcb=15&frm=0&tiba=Childrens%20Book%20Publishing%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "Skipped tracking asset: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17674619114/?random=1791312626950&cv=11&fst=1791312626950&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938468~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fchildrens-book-publishing&rcb=15&frm=0&tiba=Childrens%20Book%20Publishing%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "Skipped tracking asset: https://www.google.com/pagead/1p-user-list/17674619114/?random=1791312626950&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938468~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fchildrens-book-publishing&rcb=15&frm=0&tiba=Childrens%20Book%20Publishing%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3BOEsT9JbyNkJ7wF_j2ml-VkKSy27bpdI8mb9EJeUy7lOTpEb5pDh7F4xMRvj9mD14dYto3ZtNcMsampuaKZZrL7WqFTK6d6xDDC9HpT8RH1lrDY-w9ZEhLnvovALpjHnXu3ZtBPJ7KdjA70s54aBOzWTjFCeH3aMG2SK4sn21sj41De6aszqnrnpadtp-jGD7Xhb6ptDchP5c-SnDT_ihHYBGTp7Fh-r6sFvGz8B2oEUTD-U6xhHdp0SD0TGc6Sb-ac4oCD7TDOESm7mPKCP2YIdX0I6CDBpHSX3f6M&random=2742287749&rmt_tld=0&ipr=y",
+    "Skipped tracking asset: https://www.google.com.pk/pagead/1p-user-list/17674619114/?random=1791312626950&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938468~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fchildrens-book-publishing&rcb=15&frm=0&tiba=Childrens%20Book%20Publishing%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3BOEsT9JbyNkJ7wF_j2ml-VkKSy27bpdI8mb9EJeUy7lOTpEb5pDh7F4xMRvj9mD14dYto3ZtNcMsampuaKZZrL7WqFTK6d6xDDC9HpT8RH1lrDY-w9ZEhLnvovALpjHnXu3ZtBPJ7KdjA70s54aBOzWTjFCeH3aMG2SK4sn21sj41De6aszqnrnpadtp-jGD7Xhb6ptDchP5c-SnDT_ihHYBGTp7Fh-r6sFvGz8B2oEUTD-U6xhHdp0SD0TGc6Sb-ac4oCD7TDOESm7mPKCP2YIdX0I6CDBpHSX3f6M&random=2742287749&rmt_tld=1&ipr=y",
+    "Skipped tracking asset: https://www.google.com/ccm/collect?rcb=11&frm=0&apvc=1&auid=905666407.1791312613&dt=About%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&tid=AW-17674619114&en=page_view&dl=https%3A%2F%2Fbookwhisk.com%2Fabout-us&scrsrc=www.googletagmanager.com&rnd=499552641.1791312631&navt=n&npa=0&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385423~120420416~120469145~120469153~121046263~121046271~121125486~121280970&tft=1791312631013&tfd=541&tids=AW-17674619114&fmt=8",
+    "Skipped tracking asset: https://www.google.com/rmkt/collect/17674619114/?random=1791312630984&cv=11&fst=1791312630984&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385423~120420416~120469145~120469153~121046263~121046271~121125486~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fabout-us&rcb=11&frm=0&tiba=About%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "Skipped tracking asset: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17674619114/?random=1791312630984&cv=11&fst=1791312630984&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385423~120420416~120469145~120469153~121046263~121046271~121125486~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fabout-us&rcb=11&frm=0&tiba=About%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "Skipped tracking asset: https://www.google.com/pagead/1p-user-list/17674619114/?random=1791312630984&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385423~120420416~120469145~120469153~121046263~121046271~121125486~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fabout-us&rcb=11&frm=0&tiba=About%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3G_4-w0shAlAD-cPQ0L1PPszNSuZJVq6ZGjRMZAjJk3cHGoahEfRi7lBG4pzkB4rOScnI0048J6Gix6EiESA-1D21Y_bz8nhmy1CC0x-Womjr5SUwbV775hbjxRelp2l8d4mzVrNwPFXhLGRr-kvtZWv2w6EuWDNx9OSmAOBhnlZO9nxogWinkCcKpfio81LV7OTm3ZaRviwxSoyFZ7-6auxmx5vuYA05nlZdmPkwPJSz44JiUiJK5XVSwxXDMahDF5qp9YW3Iy6HSP0oAjLcd2DNGUJqiKRTSFNwrQi&random=3328033351&rmt_tld=0&ipr=y",
+    "Skipped tracking asset: https://www.google.com.pk/pagead/1p-user-list/17674619114/?random=1791312630984&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385423~120420416~120469145~120469153~121046263~121046271~121125486~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fabout-us&rcb=11&frm=0&tiba=About%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3G_4-w0shAlAD-cPQ0L1PPszNSuZJVq6ZGjRMZAjJk3cHGoahEfRi7lBG4pzkB4rOScnI0048J6Gix6EiESA-1D21Y_bz8nhmy1CC0x-Womjr5SUwbV775hbjxRelp2l8d4mzVrNwPFXhLGRr-kvtZWv2w6EuWDNx9OSmAOBhnlZO9nxogWinkCcKpfio81LV7OTm3ZaRviwxSoyFZ7-6auxmx5vuYA05nlZdmPkwPJSz44JiUiJK5XVSwxXDMahDF5qp9YW3Iy6HSP0oAjLcd2DNGUJqiKRTSFNwrQi&random=3328033351&rmt_tld=1&ipr=y",
+    "Skipped tracking asset: https://www.google.com/rmkt/collect/17674619114/?random=1791312635923&cv=11&fst=1791312635923&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fsignup&rcb=12&frm=0&tiba=Sign%20Up%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "Skipped tracking asset: https://www.google.com/ccm/collect?rcb=12&frm=0&apvc=1&auid=905666407.1791312613&dt=Sign%20Up%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&tid=AW-17674619114&en=page_view&dl=https%3A%2F%2Fbookwhisk.com%2Fsignup&scrsrc=www.googletagmanager.com&rnd=365678676.1791312636&navt=n&npa=0&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&tft=1791312635955&tfd=372&tids=AW-17674619114&fmt=8",
+    "Skipped tracking asset: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17674619114/?random=1791312635923&cv=11&fst=1791312635923&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fsignup&rcb=12&frm=0&tiba=Sign%20Up%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "Skipped tracking asset: https://www.google.com.pk/pagead/1p-user-list/17674619114/?random=1791312635923&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fsignup&rcb=12&frm=0&tiba=Sign%20Up%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3Ef1oWQkB3llzV790cJCHwKsGapDQjjfKcTA0qCiZHfSuxvgyal2MNeYsxjKpbhvqObuOkmJM3geDE3ZBKYTYZZNGMwQdA1K_efcbVw32GpC-BSBCVXPkGU9dvoYWXtpl6GC36ouemaFkUXgQujhEwyV03F6xioD6DFqeSsSCMX5Ksm9W_ywNKmVefI7Ta7Ar84O4y-HD2VSrGCZKPBTA8UOQSL4P5yudk4t2PZpwprfzGX6FmGOmUigmQlqAoLySr7V9GZIhknP9KYjcTZfBDdlLLHLV48s7fU7p0VI&random=1384025565&rmt_tld=1&ipr=y",
+    "Skipped tracking asset: https://www.google.com/pagead/1p-user-list/17674619114/?random=1791312635923&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fsignup&rcb=12&frm=0&tiba=Sign%20Up%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3Ef1oWQkB3llzV790cJCHwKsGapDQjjfKcTA0qCiZHfSuxvgyal2MNeYsxjKpbhvqObuOkmJM3geDE3ZBKYTYZZNGMwQdA1K_efcbVw32GpC-BSBCVXPkGU9dvoYWXtpl6GC36ouemaFkUXgQujhEwyV03F6xioD6DFqeSsSCMX5Ksm9W_ywNKmVefI7Ta7Ar84O4y-HD2VSrGCZKPBTA8UOQSL4P5yudk4t2PZpwprfzGX6FmGOmUigmQlqAoLySr7V9GZIhknP9KYjcTZfBDdlLLHLV48s7fU7p0VI&random=1384025565&rmt_tld=0&ipr=y",
+    "Skipped tracking asset: https://www.google.com/ccm/collect?rcb=4&frm=0&apvc=1&auid=905666407.1791312613&dt=Contact%20Us%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&tid=AW-17674619114&en=page_view&dl=https%3A%2F%2Fbookwhisk.com%2Fcontact&scrsrc=www.googletagmanager.com&rnd=468963182.1791312640&navt=n&npa=0&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118012007~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121125487~121280970&tft=1791312639899&tfd=327&tids=AW-17674619114&fmt=8",
+    "Skipped tracking asset: https://www.google.com/rmkt/collect/17674619114/?random=1791312639874&cv=11&fst=1791312639874&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118012007~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121125487~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fcontact&rcb=4&frm=0&tiba=Contact%20Us%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "Skipped tracking asset: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17674619114/?random=1791312639874&cv=11&fst=1791312639874&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118012007~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121125487~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fcontact&rcb=4&frm=0&tiba=Contact%20Us%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "Skipped tracking asset: https://www.google.com/pagead/1p-user-list/17674619114/?random=1791312639874&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118012007~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121125487~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fcontact&rcb=4&frm=0&tiba=Contact%20Us%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3DYexlnnisDVqZ5vGC5h7cv6VDP0WLwGl4nhDNSMnWdl2lZYlXcao91T6heRCEGqaASJab5D57iC_hL0svg2fT8v6OdzPhQCpiZEJlmzLniyEiIv63Z83KM8cLBNqrpm3eXlCfK80JkklRj3U0A39-KL6xBeQmSUvKjjJSmclEXc0-kvXTJoYoqVItvNnLIiZ1x-7Qu1FYwpc-aKSB-2mObq4MJPSa7VFj7XDf4LKpBmL83ZCy4KBRdrI0hdF3rzgl8CmenEIhpfC5kbGJHN84RJcwRklZSZlVsW9fr4&random=1785072813&rmt_tld=0&ipr=y",
+    "Skipped tracking asset: https://www.google.com.pk/pagead/1p-user-list/17674619114/?random=1791312639874&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118012007~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121125487~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fcontact&rcb=4&frm=0&tiba=Contact%20Us%20%7C%20BookWhisk%20-%20Self-Publishing%20Facilitators&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3DYexlnnisDVqZ5vGC5h7cv6VDP0WLwGl4nhDNSMnWdl2lZYlXcao91T6heRCEGqaASJab5D57iC_hL0svg2fT8v6OdzPhQCpiZEJlmzLniyEiIv63Z83KM8cLBNqrpm3eXlCfK80JkklRj3U0A39-KL6xBeQmSUvKjjJSmclEXc0-kvXTJoYoqVItvNnLIiZ1x-7Qu1FYwpc-aKSB-2mObq4MJPSa7VFj7XDf4LKpBmL83ZCy4KBRdrI0hdF3rzgl8CmenEIhpfC5kbGJHN84RJcwRklZSZlVsW9fr4&random=1785072813&rmt_tld=1&ipr=y",
+    "Skipped tracking asset: https://www.google.com/ccm/collect?rcb=2&frm=0&apvc=1&auid=905666407.1791312613&dt=How%20It%20Works%20-%20BookWhisk&tid=AW-17674619114&en=page_view&dl=https%3A%2F%2Fbookwhisk.com%2Fhow-it-works&scrsrc=www.googletagmanager.com&rnd=1331877407.1791312645&navt=n&npa=0&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121125487&tft=1791312644978&tfd=1100&tids=AW-17674619114&fmt=8",
+    "Skipped tracking asset: https://www.google.com/rmkt/collect/17674619114/?random=1791312644948&cv=11&fst=1791312644948&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121125487&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fhow-it-works&rcb=2&frm=0&tiba=How%20It%20Works%20-%20BookWhisk&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "Skipped tracking asset: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17674619114/?random=1791312644948&cv=11&fst=1791312644948&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121125487&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fhow-it-works&rcb=2&frm=0&tiba=How%20It%20Works%20-%20BookWhisk&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "Skipped tracking asset: https://www.google.com/pagead/1p-user-list/17674619114/?random=1791312644948&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121125487&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fhow-it-works&rcb=2&frm=0&tiba=How%20It%20Works%20-%20BookWhisk&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3K-EZnlUw8WT-1MADgpk5U9RfNBd4GiSlym5jyaWn6OQtrMmNmHN-q-ed_dT-KdW6dDVxM9c2NcOZHFNcrjwXvrnVz1EQFEWP2bpe14tI36loCn6OxIxFd_pJ-eNd649Zaa8iUWfDsjKLK_QwY80LK0M4HjfGz58RTZacT6AeAk3Qu4u_N-jz6O8GggkMpYJG9Ww_HQ5vDVBY8_LS4I5JF-twX_U2pMNEEMqIjAstar5DoRxLYFjdm-4eBUeEhO4z2dKG2EzIssJw_LU3u0B1i2GSW9H-gnD2Z2VDTEf&random=1661874559&rmt_tld=0&ipr=y",
+    "Skipped tracking asset: https://www.google.com.pk/pagead/1p-user-list/17674619114/?random=1791312644948&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938465~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121125487&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fhow-it-works&rcb=2&frm=0&tiba=How%20It%20Works%20-%20BookWhisk&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3K-EZnlUw8WT-1MADgpk5U9RfNBd4GiSlym5jyaWn6OQtrMmNmHN-q-ed_dT-KdW6dDVxM9c2NcOZHFNcrjwXvrnVz1EQFEWP2bpe14tI36loCn6OxIxFd_pJ-eNd649Zaa8iUWfDsjKLK_QwY80LK0M4HjfGz58RTZacT6AeAk3Qu4u_N-jz6O8GggkMpYJG9Ww_HQ5vDVBY8_LS4I5JF-twX_U2pMNEEMqIjAstar5DoRxLYFjdm-4eBUeEhO4z2dKG2EzIssJw_LU3u0B1i2GSW9H-gnD2Z2VDTEf&random=1661874559&rmt_tld=1&ipr=y",
+    "Skipped tracking asset: https://www.google.com/rmkt/collect/17674619114/?random=1791312649521&cv=11&fst=1791312649521&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fself-publishing&rcb=10&frm=0&tiba=Self%20Publishing&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "Skipped tracking asset: https://www.google.com/ccm/collect?rcb=10&frm=0&apvc=1&auid=905666407.1791312613&dt=Self%20Publishing&tid=AW-17674619114&en=page_view&dl=https%3A%2F%2Fbookwhisk.com%2Fself-publishing&scrsrc=www.googletagmanager.com&rnd=1869579246.1791312650&navt=n&npa=0&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121280970&tft=1791312649547&tfd=722&tids=AW-17674619114&fmt=8",
+    "Skipped tracking asset: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17674619114/?random=1791312649521&cv=11&fst=1791312649521&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fself-publishing&rcb=10&frm=0&tiba=Self%20Publishing&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "Skipped tracking asset: https://www.google.com/pagead/1p-user-list/17674619114/?random=1791312649521&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fself-publishing&rcb=10&frm=0&tiba=Self%20Publishing&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3LD6FqloyB_s8aFy2HB_Nm7-goPAys5KJ9AdvxfnXHMNEsKqhSseds4IAkGwTb_gxNxtDOr1bI2vSFi0b5LXSk6Y_YGxqieotLqWWANyRTPu6xaVeEOoj00v6OMQO7eXiHMyPQlCSPCIYnl4kZx-If8ItIsyRGSh5Oedv4TLx-HP0Tlw4sw5mBBRemSehCifYMecwCAuYAXbKvsOctv9wZjbvTyi3IOj_VuUpKxLTc6ctg8WqQ_2ASKMP-p1YU5jffZK3ndzuZyBeAN_SQBwJFnkEc7OMgGn81xNkVEq&random=1049842654&rmt_tld=0&ipr=y",
+    "Skipped tracking asset: https://www.google.com.pk/pagead/1p-user-list/17674619114/?random=1791312649521&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fself-publishing&rcb=10&frm=0&tiba=Self%20Publishing&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3LD6FqloyB_s8aFy2HB_Nm7-goPAys5KJ9AdvxfnXHMNEsKqhSseds4IAkGwTb_gxNxtDOr1bI2vSFi0b5LXSk6Y_YGxqieotLqWWANyRTPu6xaVeEOoj00v6OMQO7eXiHMyPQlCSPCIYnl4kZx-If8ItIsyRGSh5Oedv4TLx-HP0Tlw4sw5mBBRemSehCifYMecwCAuYAXbKvsOctv9wZjbvTyi3IOj_VuUpKxLTc6ctg8WqQ_2ASKMP-p1YU5jffZK3ndzuZyBeAN_SQBwJFnkEc7OMgGn81xNkVEq&random=1049842654&rmt_tld=1&ipr=y",
+    "Skipped tracking asset: https://www.google.com/ccm/collect?rcb=2&frm=0&apvc=1&auid=905666407.1791312613&dt=Writing%20Assistance&tid=AW-17674619114&en=page_view&dl=https%3A%2F%2Fbookwhisk.com%2Fwriting-assistance&scrsrc=www.googletagmanager.com&rnd=158067724.1791312655&navt=n&npa=0&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&tft=1791312654903&tfd=657&tids=AW-17674619114&fmt=8",
+    "Skipped tracking asset: https://www.google.com/rmkt/collect/17674619114/?random=1791312654875&cv=11&fst=1791312654875&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fwriting-assistance&rcb=2&frm=0&tiba=Writing%20Assistance&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "Skipped tracking asset: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17674619114/?random=1791312654875&cv=11&fst=1791312654875&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fwriting-assistance&rcb=2&frm=0&tiba=Writing%20Assistance&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "Skipped tracking asset: https://www.google.com/pagead/1p-user-list/17674619114/?random=1791312654875&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fwriting-assistance&rcb=2&frm=0&tiba=Writing%20Assistance&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3LXAotzsHkHDPGIg3HOyEXC_2QlUj2g4-xGI2W9GS3STZvsE5F_YkhXvy0Bd2tcJjx1JO5ebF2hM9Rwx572fBzNeti5-Ky-mdAKqa9TIM6eLeq3APkAIIut-gmUg-OD_OEiTn-_TD3JpWRMl7bxzURIFcn2EBIIqPEXs1QwLBbiRv44Ru9g87UH7k0zvSmpbFYoU_JrGvECTFmi17h0hH_oUeaueDlgCsO_AfpzJQETG0nme5Brw2i3dBU9PlHmIcE57-9pHxjUDRkITwfoHR4cOfByKIZO62Occ4dST&random=2663724162&rmt_tld=0&ipr=y",
+    "Skipped tracking asset: https://www.google.com.pk/pagead/1p-user-list/17674619114/?random=1791312654875&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fwriting-assistance&rcb=2&frm=0&tiba=Writing%20Assistance&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3LXAotzsHkHDPGIg3HOyEXC_2QlUj2g4-xGI2W9GS3STZvsE5F_YkhXvy0Bd2tcJjx1JO5ebF2hM9Rwx572fBzNeti5-Ky-mdAKqa9TIM6eLeq3APkAIIut-gmUg-OD_OEiTn-_TD3JpWRMl7bxzURIFcn2EBIIqPEXs1QwLBbiRv44Ru9g87UH7k0zvSmpbFYoU_JrGvECTFmi17h0hH_oUeaueDlgCsO_AfpzJQETG0nme5Brw2i3dBU9PlHmIcE57-9pHxjUDRkITwfoHR4cOfByKIZO62Occ4dST&random=2663724162&rmt_tld=1&ipr=y",
+    "Skipped tracking asset: https://www.google.com/ccm/collect?rcb=16&frm=0&apvc=1&auid=905666407.1791312613&dt=Book%20Editing&tid=AW-17674619114&en=page_view&dl=https%3A%2F%2Fbookwhisk.com%2Fbook-editing&scrsrc=www.googletagmanager.com&rnd=184104182.1791312660&navt=n&npa=0&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121280970&tft=1791312659902&tfd=529&tids=AW-17674619114&fmt=8",
+    "Skipped tracking asset: https://www.google.com/rmkt/collect/17674619114/?random=1791312659873&cv=11&fst=1791312659873&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-editing&rcb=16&frm=0&tiba=Book%20Editing&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "Skipped tracking asset: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17674619114/?random=1791312659873&cv=11&fst=1791312659873&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-editing&rcb=16&frm=0&tiba=Book%20Editing&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "Skipped tracking asset: https://www.google.com/pagead/1p-user-list/17674619114/?random=1791312659873&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-editing&rcb=16&frm=0&tiba=Book%20Editing&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3OoypE0dAxGnG__tH9ShY1TrtWr1yuAtzeIk1QIhIEi4abTN6WfM4G5HrSFujYbT628z1hfV5dMRNrSfWzgTBH4cuO65i6aQ50OqjItIQ80nIoRNzWRQkFaKL0JJxVKRP6gUiDUM6v5eKc0lWdPRK5CDSiW0l4IGksdI6KB40fXtMTdcsJ2XnXihiDwANMVucveHIDd73anN_3r4fn2reHCdAE6BLUlYIW06zmrWchBb0sertBaExRb-aUZD3A8WeYLo0h7PLChMz_3FsF39cxiMjX_JgIJqyOpLAa1M&random=2549605139&rmt_tld=0&ipr=y",
+    "Skipped tracking asset: https://www.google.com.pk/pagead/1p-user-list/17674619114/?random=1791312659873&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-editing&rcb=16&frm=0&tiba=Book%20Editing&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3OoypE0dAxGnG__tH9ShY1TrtWr1yuAtzeIk1QIhIEi4abTN6WfM4G5HrSFujYbT628z1hfV5dMRNrSfWzgTBH4cuO65i6aQ50OqjItIQ80nIoRNzWRQkFaKL0JJxVKRP6gUiDUM6v5eKc0lWdPRK5CDSiW0l4IGksdI6KB40fXtMTdcsJ2XnXihiDwANMVucveHIDd73anN_3r4fn2reHCdAE6BLUlYIW06zmrWchBb0sertBaExRb-aUZD3A8WeYLo0h7PLChMz_3FsF39cxiMjX_JgIJqyOpLAa1M&random=2549605139&rmt_tld=1&ipr=y",
+    "Skipped tracking asset: https://www.google.com/ccm/collect?rcb=17&frm=0&apvc=1&auid=905666407.1791312613&dt=Book%20Cover%20Design&tid=AW-17674619114&en=page_view&dl=https%3A%2F%2Fbookwhisk.com%2Fbook-cover-design&scrsrc=www.googletagmanager.com&rnd=389226572.1791312665&navt=n&npa=0&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&tft=1791312665459&tfd=739&tids=AW-17674619114&fmt=8",
+    "Skipped tracking asset: https://www.google.com/rmkt/collect/17674619114/?random=1791312665423&cv=11&fst=1791312665423&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-cover-design&rcb=17&frm=0&tiba=Book%20Cover%20Design&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "Skipped tracking asset: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17674619114/?random=1791312665423&cv=11&fst=1791312665423&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-cover-design&rcb=17&frm=0&tiba=Book%20Cover%20Design&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "Skipped tracking asset: https://www.google.com/pagead/1p-user-list/17674619114/?random=1791312665423&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-cover-design&rcb=17&frm=0&tiba=Book%20Cover%20Design&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3CycVKk7pg8ftRCGfahIbfyWSeuQQANTSPrgwBCvHw4_bQHgRQSE3wpjElay4IxXOyd7criQqbyNJ0bEXm5NK4svqzOE23Y9_I2gJ1PoC7qXvmYknzUwXGpb0ZS9xC2948qtuLtnMG623veGZQ8ctkJMANwhuWNyer9PvQ4w6SxM-wHqF3BmV5oGJAUGjScu-4WSLgNSNYIQ7YFsxpg5j8n5mMkGxE2IjKhvrKKWuYCQv75Gj9Cg4oc1TpyH-tHhmSmrKCBf8XPqJYHtYK8otcmL9iPVg16HllPUKnUU&random=57448977&rmt_tld=0&ipr=y",
+    "Skipped tracking asset: https://www.google.com.pk/pagead/1p-user-list/17674619114/?random=1791312665423&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-cover-design&rcb=17&frm=0&tiba=Book%20Cover%20Design&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3CycVKk7pg8ftRCGfahIbfyWSeuQQANTSPrgwBCvHw4_bQHgRQSE3wpjElay4IxXOyd7criQqbyNJ0bEXm5NK4svqzOE23Y9_I2gJ1PoC7qXvmYknzUwXGpb0ZS9xC2948qtuLtnMG623veGZQ8ctkJMANwhuWNyer9PvQ4w6SxM-wHqF3BmV5oGJAUGjScu-4WSLgNSNYIQ7YFsxpg5j8n5mMkGxE2IjKhvrKKWuYCQv75Gj9Cg4oc1TpyH-tHhmSmrKCBf8XPqJYHtYK8otcmL9iPVg16HllPUKnUU&random=57448977&rmt_tld=1&ipr=y",
+    "Skipped tracking asset: https://www.google.com/ccm/collect?rcb=19&frm=0&apvc=1&auid=905666407.1791312613&dt=Book%20Proofreading&tid=AW-17674619114&en=page_view&dl=https%3A%2F%2Fbookwhisk.com%2Fbook-proofreading&scrsrc=www.googletagmanager.com&rnd=547547800.1791312671&navt=n&npa=0&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121280970&tft=1791312670566&tfd=680&tids=AW-17674619114&fmt=8",
+    "Skipped tracking asset: https://www.google.com/rmkt/collect/17674619114/?random=1791312670536&cv=11&fst=1791312670536&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-proofreading&rcb=19&frm=0&tiba=Book%20Proofreading&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "Skipped tracking asset: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17674619114/?random=1791312670536&cv=11&fst=1791312670536&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-proofreading&rcb=19&frm=0&tiba=Book%20Proofreading&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "Skipped tracking asset: https://www.google.com/pagead/1p-user-list/17674619114/?random=1791312670536&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-proofreading&rcb=19&frm=0&tiba=Book%20Proofreading&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3Eur0YKW_reP1-GkdBUTxX-9FIkLIODsPREY1eokFz34oWSz7KxWffyvOoneF5lMvpIumNAvuxKyttgzq3-Z7mWitZ8m0dVj3Gisgj-_8d3kLm1BR3oyFazB97qfmWTCrssM1ogzH0C6PcYAYI6EyY38ucf2Ke_IbWfu76xQbKIUArJW3P1shecB9cS0jy2ZJMX_0ZfjtzWOnPNn_2hZVdFgV1wqVjvjQsUJRbjLJDT5SXL-JrrCVh50T9kDE-dxF77sSroAec8YBVWrfUqf6HaN4aIeOb8_ERNHE_pl&random=1995360778&rmt_tld=0&ipr=y",
+    "Skipped tracking asset: https://www.google.com.pk/pagead/1p-user-list/17674619114/?random=1791312670536&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-proofreading&rcb=19&frm=0&tiba=Book%20Proofreading&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3Eur0YKW_reP1-GkdBUTxX-9FIkLIODsPREY1eokFz34oWSz7KxWffyvOoneF5lMvpIumNAvuxKyttgzq3-Z7mWitZ8m0dVj3Gisgj-_8d3kLm1BR3oyFazB97qfmWTCrssM1ogzH0C6PcYAYI6EyY38ucf2Ke_IbWfu76xQbKIUArJW3P1shecB9cS0jy2ZJMX_0ZfjtzWOnPNn_2hZVdFgV1wqVjvjQsUJRbjLJDT5SXL-JrrCVh50T9kDE-dxF77sSroAec8YBVWrfUqf6HaN4aIeOb8_ERNHE_pl&random=1995360778&rmt_tld=1&ipr=y",
+    "Skipped tracking asset: https://www.google.com/rmkt/collect/17674619114/?random=1791312675487&cv=11&fst=1791312675487&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Faudiobook-publishing-services&rcb=0&frm=0&tiba=Audiobook%20Publishing%20Services&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "Skipped tracking asset: https://www.google.com/ccm/collect?rcb=0&frm=0&apvc=1&auid=905666407.1791312613&dt=Audiobook%20Publishing%20Services&tid=AW-17674619114&en=page_view&dl=https%3A%2F%2Fbookwhisk.com%2Faudiobook-publishing-services&scrsrc=www.googletagmanager.com&rnd=1894006893.1791312675&navt=n&npa=0&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121280970&tft=1791312675518&tfd=589&tids=AW-17674619114&fmt=8",
+    "Skipped tracking asset: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17674619114/?random=1791312675487&cv=11&fst=1791312675487&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Faudiobook-publishing-services&rcb=0&frm=0&tiba=Audiobook%20Publishing%20Services&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "Skipped tracking asset: https://www.google.com.pk/pagead/1p-user-list/17674619114/?random=1791312675487&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Faudiobook-publishing-services&rcb=0&frm=0&tiba=Audiobook%20Publishing%20Services&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3OXutj5GcVLJ6IYN4L6CmeTzR1iJDN6UVfGmhKLxQGzVZiOvepEPdfzA9TB0OoGst-0L3nYaVTx6usvGjXwkebT0FNyJ4YwiMSLxT59Msh_nutSRTF69q5OI1qcJaxByqBIGFz7PTsLGanMsx949R-om09_IOa1OEsGSQ_lBqk7YdCIfDAVv2GXZhzMxyEeM32JyTAEtd39gzDqNl4SzsLhHZRuuFhsLK0yg7FR6DJKgQKH6bdqiN2JE39DPuRfdGOREYsPeawApby0eSA75n2nD2EFtmuLjdDR2s7rA&random=1097303462&rmt_tld=1&ipr=y",
+    "Skipped tracking asset: https://www.google.com/pagead/1p-user-list/17674619114/?random=1791312675487&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Faudiobook-publishing-services&rcb=0&frm=0&tiba=Audiobook%20Publishing%20Services&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3OXutj5GcVLJ6IYN4L6CmeTzR1iJDN6UVfGmhKLxQGzVZiOvepEPdfzA9TB0OoGst-0L3nYaVTx6usvGjXwkebT0FNyJ4YwiMSLxT59Msh_nutSRTF69q5OI1qcJaxByqBIGFz7PTsLGanMsx949R-om09_IOa1OEsGSQ_lBqk7YdCIfDAVv2GXZhzMxyEeM32JyTAEtd39gzDqNl4SzsLhHZRuuFhsLK0yg7FR6DJKgQKH6bdqiN2JE39DPuRfdGOREYsPeawApby0eSA75n2nD2EFtmuLjdDR2s7rA&random=1097303462&rmt_tld=0&ipr=y",
+    "Skipped tracking asset: https://analytics.google.com/g/collect?v=2&tid=G-0YLPWB348V&gtm=45je6a50v9255813038za200zb9233195202zd9233195202xf1&_p=1791312675408&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAACQC&are=1&cid=1376975448.1791312618&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=18&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=1&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121280970&sid=1791312618&sct=1&seg=1&dl=https%3A%2F%2Fbookwhisk.com%2Faudiobook-publishing-services&dt=Audiobook%20Publishing%20Services&en=page_view&_ee=1&ep.anonymize_ip=true&tfd=3837",
+    "Skipped tracking asset: https://www.google.com/ccm/collect?rcb=3&frm=0&apvc=1&auid=905666407.1791312613&dt=Expert%20Ghostwriting&tid=AW-17674619114&en=page_view&dl=https%3A%2F%2Fbookwhisk.com%2Fghostwriting&scrsrc=www.googletagmanager.com&rnd=487585588.1791312681&navt=n&npa=0&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&tft=1791312680680&tfd=583&tids=AW-17674619114&fmt=8",
+    "Skipped tracking asset: https://www.google.com/rmkt/collect/17674619114/?random=1791312680653&cv=11&fst=1791312680653&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fghostwriting&rcb=3&frm=0&tiba=Expert%20Ghostwriting&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "Skipped tracking asset: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17674619114/?random=1791312680653&cv=11&fst=1791312680653&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fghostwriting&rcb=3&frm=0&tiba=Expert%20Ghostwriting&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "Skipped tracking asset: https://www.google.com.pk/pagead/1p-user-list/17674619114/?random=1791312680653&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fghostwriting&rcb=3&frm=0&tiba=Expert%20Ghostwriting&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3DwwmgVmo3Y_gmmB7fQqiyz03EIhooaxptYYlEyFHoCJF-cdagEVAmg4wEHuI2eC7oIdftiLigAw_2OrsDFkTGzmxe1sXKAd4j9X1ov4mz79C26oAuWQM5CwjvhXujUGAJbQ-a86UW9taY5zROBomOMMD6Iv3yjHHbXVyD2ZbCsFkTUNmSC9wQ-n3-KNj-s8dIWGBj0fTkhDAqAz_R_beQ0-0D53Sw0cSoAs4D7G9qKqVZwv7XaSRNr2nuKLBRNDsq_4sFDM9YFZzmZWlT4nVZhvRrirfRP1oFKE3CgZ&random=1377647281&rmt_tld=1&ipr=y",
+    "Skipped tracking asset: https://www.google.com/pagead/1p-user-list/17674619114/?random=1791312680653&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fghostwriting&rcb=3&frm=0&tiba=Expert%20Ghostwriting&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3DwwmgVmo3Y_gmmB7fQqiyz03EIhooaxptYYlEyFHoCJF-cdagEVAmg4wEHuI2eC7oIdftiLigAw_2OrsDFkTGzmxe1sXKAd4j9X1ov4mz79C26oAuWQM5CwjvhXujUGAJbQ-a86UW9taY5zROBomOMMD6Iv3yjHHbXVyD2ZbCsFkTUNmSC9wQ-n3-KNj-s8dIWGBj0fTkhDAqAz_R_beQ0-0D53Sw0cSoAs4D7G9qKqVZwv7XaSRNr2nuKLBRNDsq_4sFDM9YFZzmZWlT4nVZhvRrirfRP1oFKE3CgZ&random=1377647281&rmt_tld=0&ipr=y",
+    "Skipped tracking asset: https://www.google.com/rmkt/collect/17674619114/?random=1791312685867&cv=11&fst=1791312685867&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-marketing&rcb=10&frm=0&tiba=Book%20Marketing&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "Skipped tracking asset: https://www.google.com/ccm/collect?rcb=10&frm=0&apvc=1&auid=905666407.1791312613&dt=Book%20Marketing&tid=AW-17674619114&en=page_view&dl=https%3A%2F%2Fbookwhisk.com%2Fbook-marketing&scrsrc=www.googletagmanager.com&rnd=2094710952.1791312686&navt=n&npa=0&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271&tft=1791312685896&tfd=636&tids=AW-17674619114&fmt=8",
+    "Skipped tracking asset: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17674619114/?random=1791312685867&cv=11&fst=1791312685867&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-marketing&rcb=10&frm=0&tiba=Book%20Marketing&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "Skipped tracking asset: https://www.google.com/pagead/1p-user-list/17674619114/?random=1791312685867&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-marketing&rcb=10&frm=0&tiba=Book%20Marketing&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3NKGkR2HSubtr6g2IY5TIUu8svzUpByidhuTdNQpKd-hndWp4Hdncr30-6of3Qrm1oUna2sdFnY4kJZN6zqPvAO02DWtqvZTb2mDsS7P87QApezUhKP6j7qPbp5LPv3FA4qJeyIWgLMhDOs9kLczNASqR1ChMsG7O8xwi8eAJXwsr_yUZmLhoIJPiDMQ4kEFsR6bZ3AoZPKg0QG9NE-UESxcWpph1qnmdg_tBvwvgaftSpF0q6QJ0aX2x2oqZSABKFzBq8FmAG3qGYDzrgiHb2KQzaBKaezgxMp_Bs4t&random=4220656032&rmt_tld=0&ipr=y",
+    "Skipped tracking asset: https://www.google.com.pk/pagead/1p-user-list/17674619114/?random=1791312685867&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-marketing&rcb=10&frm=0&tiba=Book%20Marketing&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3NKGkR2HSubtr6g2IY5TIUu8svzUpByidhuTdNQpKd-hndWp4Hdncr30-6of3Qrm1oUna2sdFnY4kJZN6zqPvAO02DWtqvZTb2mDsS7P87QApezUhKP6j7qPbp5LPv3FA4qJeyIWgLMhDOs9kLczNASqR1ChMsG7O8xwi8eAJXwsr_yUZmLhoIJPiDMQ4kEFsR6bZ3AoZPKg0QG9NE-UESxcWpph1qnmdg_tBvwvgaftSpF0q6QJ0aX2x2oqZSABKFzBq8FmAG3qGYDzrgiHb2KQzaBKaezgxMp_Bs4t&random=4220656032&rmt_tld=1&ipr=y",
+    "Skipped tracking asset: https://www.google.com/rmkt/collect/17674619114/?random=1791312691262&cv=11&fst=1791312691262&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776796~118897920~118897930~119404697~120213116~120385423~120469145~120469153~121046263~121046271~121125487&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-distribution&rcb=7&frm=0&tiba=Global%20Book%20Distribution&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "Skipped tracking asset: https://www.google.com/ccm/collect?rcb=7&frm=0&apvc=1&auid=905666407.1791312613&dt=Global%20Book%20Distribution&tid=AW-17674619114&en=page_view&dl=https%3A%2F%2Fbookwhisk.com%2Fbook-distribution&scrsrc=www.googletagmanager.com&rnd=1811936863.1791312691&navt=n&npa=0&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776796~118897920~118897930~119404697~120213116~120385423~120469145~120469153~121046263~121046271~121125487&tft=1791312691293&tfd=699&tids=AW-17674619114&fmt=8",
+    "Skipped tracking asset: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17674619114/?random=1791312691262&cv=11&fst=1791312691262&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776796~118897920~118897930~119404697~120213116~120385423~120469145~120469153~121046263~121046271~121125487&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-distribution&rcb=7&frm=0&tiba=Global%20Book%20Distribution&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "Skipped tracking asset: https://www.google.com/pagead/1p-user-list/17674619114/?random=1791312691262&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776796~118897920~118897930~119404697~120213116~120385423~120469145~120469153~121046263~121046271~121125487&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-distribution&rcb=7&frm=0&tiba=Global%20Book%20Distribution&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3LzHb0IhZK7Vm_HC0B8O5TSQ79qsYqf3fgjBDqYjKJf2PNsPKK30cYKPLY5RhV5LVfCFMbUE6Rc-Sktze0PGPtL4_61opMZqZFVb10daE72oBWUrs0pwAsHzQ61B1_pPuTg86RFkHVQtmLnsh6aTU0iF6A9BWhiXqQFB-RiiZut-NXdB8DEkqpFP4MvaZh6ilNS-0MoSGJTShYUyR8jehovMevWwXufMwIcT2d19TMCeMzZbFH0v1K81bilbTrU6KWcJd1dVGcz0xJdAysYYJL-YWuTvW75Bv9qQ24Qp&random=2590063134&rmt_tld=0&ipr=y",
+    "Skipped tracking asset: https://www.google.com.pk/pagead/1p-user-list/17674619114/?random=1791312691262&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776796~118897920~118897930~119404697~120213116~120385423~120469145~120469153~121046263~121046271~121125487&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-distribution&rcb=7&frm=0&tiba=Global%20Book%20Distribution&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3LzHb0IhZK7Vm_HC0B8O5TSQ79qsYqf3fgjBDqYjKJf2PNsPKK30cYKPLY5RhV5LVfCFMbUE6Rc-Sktze0PGPtL4_61opMZqZFVb10daE72oBWUrs0pwAsHzQ61B1_pPuTg86RFkHVQtmLnsh6aTU0iF6A9BWhiXqQFB-RiiZut-NXdB8DEkqpFP4MvaZh6ilNS-0MoSGJTShYUyR8jehovMevWwXufMwIcT2d19TMCeMzZbFH0v1K81bilbTrU6KWcJd1dVGcz0xJdAysYYJL-YWuTvW75Bv9qQ24Qp&random=2590063134&rmt_tld=1&ipr=y",
+    "Skipped tracking asset: https://www.google.com/ccm/collect?rcb=18&frm=0&apvc=1&auid=905666407.1791312613&dt=Book%20Translation&tid=AW-17674619114&en=page_view&dl=https%3A%2F%2Fbookwhisk.com%2Fbook-translation-services&scrsrc=www.googletagmanager.com&rnd=845568290.1791312697&navt=n&npa=0&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271&tft=1791312696837&tfd=576&tids=AW-17674619114&fmt=8",
+    "Skipped tracking asset: https://www.google.com/rmkt/collect/17674619114/?random=1791312696810&cv=11&fst=1791312696810&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-translation-services&rcb=18&frm=0&tiba=Book%20Translation&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "Skipped tracking asset: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17674619114/?random=1791312696810&cv=11&fst=1791312696810&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-translation-services&rcb=18&frm=0&tiba=Book%20Translation&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "Skipped tracking asset: https://www.google.com/pagead/1p-user-list/17674619114/?random=1791312696810&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-translation-services&rcb=18&frm=0&tiba=Book%20Translation&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3FdqS-xkBlFH1f9kBRk7TcKXvQfFHCzJPrUAq93evGCF1YqrrYsJoyPXN_wP1oo7SEIlrAVPPIaA1Ci8PPIgt3C6iYDa3-oW4E0nvBmXuB4Tfe0jN7cWF_4Hs97KY2Rlxi_FE6dShSR1YWaXzGTTvA0zR8zNjbPgSrNRwA91zzcw34ADquceHNEpmeF934R1yRjt27PzUqrER6oP4IxBVTJlpnIjuNbPN0DJcVzSBlP59TUufHnHOAkpNk8ETWLSTGHm0lVZG7EiK1Z0VxC518LUfYgDXjFF_usal8cl&random=3222590111&rmt_tld=0&ipr=y",
+    "Skipped tracking asset: https://www.google.com.pk/pagead/1p-user-list/17674619114/?random=1791312696810&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-translation-services&rcb=18&frm=0&tiba=Book%20Translation&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3FdqS-xkBlFH1f9kBRk7TcKXvQfFHCzJPrUAq93evGCF1YqrrYsJoyPXN_wP1oo7SEIlrAVPPIaA1Ci8PPIgt3C6iYDa3-oW4E0nvBmXuB4Tfe0jN7cWF_4Hs97KY2Rlxi_FE6dShSR1YWaXzGTTvA0zR8zNjbPgSrNRwA91zzcw34ADquceHNEpmeF934R1yRjt27PzUqrER6oP4IxBVTJlpnIjuNbPN0DJcVzSBlP59TUufHnHOAkpNk8ETWLSTGHm0lVZG7EiK1Z0VxC518LUfYgDXjFF_usal8cl&random=3222590111&rmt_tld=1&ipr=y",
+    "Skipped tracking asset: https://www.google.com/rmkt/collect/17674619114/?random=1791312701922&cv=11&fst=1791312701922&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fprivacy-policy&rcb=5&frm=0&tiba=Privacy%20Policy&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "Skipped tracking asset: https://www.google.com/ccm/collect?rcb=5&frm=0&apvc=1&auid=905666407.1791312613&dt=Privacy%20Policy&tid=AW-17674619114&en=page_view&dl=https%3A%2F%2Fbookwhisk.com%2Fprivacy-policy&scrsrc=www.googletagmanager.com&rnd=1344645044.1791312702&navt=n&npa=0&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&tft=1791312701949&tfd=479&tids=AW-17674619114&fmt=8",
+    "Skipped tracking asset: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17674619114/?random=1791312701922&cv=11&fst=1791312701922&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fprivacy-policy&rcb=5&frm=0&tiba=Privacy%20Policy&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "Skipped tracking asset: https://www.google.com/pagead/1p-user-list/17674619114/?random=1791312701922&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fprivacy-policy&rcb=5&frm=0&tiba=Privacy%20Policy&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3Bj0iITvInmlzf_HEQVk6e2UZOJZst59Z0tjHmtmDKPm59B6ka-W7YXXMi0AhDFuW5x_M1-8SIYGh76g5vBqex-JuDj3jdOVNEs78RbDfEHTqQB8zN6LW74joIDTmOxXYeG62YETvKNPeWLs_fQRZyOHBTGazNmDUF8boA9jEpBCBPHLBxivWT62I7ds6DBeUPQsGNGCble4T64EplnbCJX6PoJU1btqfqUxALPj9pcnmNXtzZwYA_GYIpBsxzSmPdGqW6Vd-bRzn4ueYelqYrptd3rKYq1axKlNkHIx&random=728438157&rmt_tld=0&ipr=y",
+    "Skipped tracking asset: https://www.google.com.pk/pagead/1p-user-list/17674619114/?random=1791312701922&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fprivacy-policy&rcb=5&frm=0&tiba=Privacy%20Policy&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3Bj0iITvInmlzf_HEQVk6e2UZOJZst59Z0tjHmtmDKPm59B6ka-W7YXXMi0AhDFuW5x_M1-8SIYGh76g5vBqex-JuDj3jdOVNEs78RbDfEHTqQB8zN6LW74joIDTmOxXYeG62YETvKNPeWLs_fQRZyOHBTGazNmDUF8boA9jEpBCBPHLBxivWT62I7ds6DBeUPQsGNGCble4T64EplnbCJX6PoJU1btqfqUxALPj9pcnmNXtzZwYA_GYIpBsxzSmPdGqW6Vd-bRzn4ueYelqYrptd3rKYq1axKlNkHIx&random=728438157&rmt_tld=1&ipr=y",
+    "Skipped tracking asset: https://www.google.com/ccm/collect?rcb=11&frm=0&apvc=1&auid=905666407.1791312613&dt=Terms%20and%20Conditions&tid=AW-17674619114&en=page_view&dl=https%3A%2F%2Fbookwhisk.com%2Fterms-and-conditions&scrsrc=www.googletagmanager.com&rnd=569717891.1791312707&navt=n&npa=0&gtm=45be6a50v9233195202za208zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121280971&tft=1791312706522&tfd=722&tids=AW-17674619114&fmt=8",
+    "Skipped tracking asset: https://www.google.com/rmkt/collect/17674619114/?random=1791312706497&cv=11&fst=1791312706497&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za208zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121280971&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fterms-and-conditions&rcb=11&frm=0&tiba=Terms%20and%20Conditions&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "Skipped tracking asset: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17674619114/?random=1791312706497&cv=11&fst=1791312706497&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za208zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121280971&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fterms-and-conditions&rcb=11&frm=0&tiba=Terms%20and%20Conditions&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "Skipped tracking asset: https://www.google.com/pagead/1p-user-list/17674619114/?random=1791312706497&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za208zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121280971&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fterms-and-conditions&rcb=11&frm=0&tiba=Terms%20and%20Conditions&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3EoqBvtRyzyTiiPKs2wpfSGE_M1mRf16Lt5diDm-t9Ph9RFZBULG05uV0K47ayTS1HPAH_SN2jL23L9JvJ2L_QQu_1W6031CKyHPn6ugiZ-FaPF2peh42uTjdejnGhFXnDa454IVzry0yaMdwJ68IOv7DRginlkRUDSMsrb7LU61hO5nQ5X-Oy_tHLMradwYhtcjBAdOvJR1H7Wv2GpAjzqYYJwjqiTJLEdxdDgLudVNpzlAirNlX2AWfDAVrp7xHbP-Z4YaCyW9hcw-DGlFXQlW0NDTjFcHuMEWPYb2&random=1726178811&rmt_tld=0&ipr=y",
+    "Skipped tracking asset: https://www.google.com.pk/pagead/1p-user-list/17674619114/?random=1791312706497&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za208zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121280971&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fterms-and-conditions&rcb=11&frm=0&tiba=Terms%20and%20Conditions&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3EoqBvtRyzyTiiPKs2wpfSGE_M1mRf16Lt5diDm-t9Ph9RFZBULG05uV0K47ayTS1HPAH_SN2jL23L9JvJ2L_QQu_1W6031CKyHPn6ugiZ-FaPF2peh42uTjdejnGhFXnDa454IVzry0yaMdwJ68IOv7DRginlkRUDSMsrb7LU61hO5nQ5X-Oy_tHLMradwYhtcjBAdOvJR1H7Wv2GpAjzqYYJwjqiTJLEdxdDgLudVNpzlAirNlX2AWfDAVrp7xHbP-Z4YaCyW9hcw-DGlFXQlW0NDTjFcHuMEWPYb2&random=1726178811&rmt_tld=1&ipr=y",
+    "Skipped tracking asset: https://www.google.com/rmkt/collect/17674619114/?random=1791312711060&cv=11&fst=1791312711060&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121125487~121280969&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-formatting&rcb=2&frm=0&tiba=Book%20Formatting&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "Skipped tracking asset: https://www.google.com/ccm/collect?rcb=2&frm=0&apvc=1&auid=905666407.1791312613&dt=Book%20Formatting&tid=AW-17674619114&en=page_view&dl=https%3A%2F%2Fbookwhisk.com%2Fbook-formatting&scrsrc=www.googletagmanager.com&rnd=757695680.1791312711&navt=n&npa=0&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121125487~121280969&tft=1791312711091&tfd=689&tids=AW-17674619114&fmt=8",
+    "Skipped tracking asset: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17674619114/?random=1791312711060&cv=11&fst=1791312711060&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121125487~121280969&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-formatting&rcb=2&frm=0&tiba=Book%20Formatting&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "Skipped tracking asset: https://www.google.com.pk/pagead/1p-user-list/17674619114/?random=1791312711060&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121125487~121280969&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-formatting&rcb=2&frm=0&tiba=Book%20Formatting&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3EB_wakHZRfxYH80CeieeE5N3AM9mDpxpkq7Stn42RYsfqiV644DcC2aC16Z1tm04cvQq5OGeJ2UJaftgaTci2Ffbrw51GDW-26Loadan1qpd1AYdU1p1bDmw_pWLfr7b4FU37sdQumDhfAycQ0JRvXqDmQPycHC1hCT87SKJg04e0CSL4bb7tF7aORd9Gk2hO-2JOzzd40Q4bwFF8rwB7i1C_yHtZEL2_C1lO9zoV7VWFZKW6eNHtTZoamgsRNb3aHUOwwtXhY0gnYTioudP8758Ac1Rg3D6pdxbL4K&random=4084799672&rmt_tld=1&ipr=y",
+    "Skipped tracking asset: https://www.google.com/pagead/1p-user-list/17674619114/?random=1791312711060&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121125487~121280969&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fbook-formatting&rcb=2&frm=0&tiba=Book%20Formatting&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3EB_wakHZRfxYH80CeieeE5N3AM9mDpxpkq7Stn42RYsfqiV644DcC2aC16Z1tm04cvQq5OGeJ2UJaftgaTci2Ffbrw51GDW-26Loadan1qpd1AYdU1p1bDmw_pWLfr7b4FU37sdQumDhfAycQ0JRvXqDmQPycHC1hCT87SKJg04e0CSL4bb7tF7aORd9Gk2hO-2JOzzd40Q4bwFF8rwB7i1C_yHtZEL2_C1lO9zoV7VWFZKW6eNHtTZoamgsRNb3aHUOwwtXhY0gnYTioudP8758Ac1Rg3D6pdxbL4K&random=4084799672&rmt_tld=0&ipr=y",
+    "Failed to download (404): https://bookwhisk.com/terms",
+    "Skipped tracking asset: https://www.google.com/ccm/collect?rcb=12&frm=0&apvc=1&auid=905666407.1791312613&dt=404%3A%20This%20page%20could%20not%20be%20found.&tid=AW-17674619114&en=page_view&dl=https%3A%2F%2Fbookwhisk.com%2Fterms&scrsrc=www.googletagmanager.com&rnd=1587946872.1791312716&navt=n&npa=0&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121280970&tft=1791312716050&tfd=367&tids=AW-17674619114&fmt=8",
+    "Skipped tracking asset: https://www.google.com/rmkt/collect/17674619114/?random=1791312716024&cv=11&fst=1791312716024&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fterms&rcb=12&frm=0&tiba=404%3A%20This%20page%20could%20not%20be%20found.&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "Skipped tracking asset: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17674619114/?random=1791312716024&cv=11&fst=1791312716024&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fterms&rcb=12&frm=0&tiba=404%3A%20This%20page%20could%20not%20be%20found.&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "Skipped tracking asset: https://www.google.com/pagead/1p-user-list/17674619114/?random=1791312716024&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fterms&rcb=12&frm=0&tiba=404%3A%20This%20page%20could%20not%20be%20found.&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3GoGdz7HzHe6GJEGPvI2vjqOEtgMNf95yqt6dkkydQ0UJ2NCtSYzv_wbQHjDBLyGnjD5bah5NRA0c42qo-2QLhnwg_JwQMNgzrbdrMlWMO8R2JYgziyaRTHRBbytZ0b_oaSQIWrsL_PQT-FZBle-Tml8VXagMuXOAzZnvYikbAirfWTbeSiqKXZmb_PKl0SNWBMo_qCcnqupmVExu7eK3bm05VGZYVcd-YCAvbXXt4AkS7g6uctm9QGwVaRqdW0uoWi4N6XhAov8khSU5yJwh_4Ptnt6cotOosz02NtT&random=145246950&rmt_tld=0&ipr=y",
+    "Skipped tracking asset: https://www.google.com.pk/pagead/1p-user-list/17674619114/?random=1791312716024&cv=11&fst=1791309600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6a50v9233195202za200zd9233195202xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271~121280970&u_w=1440&u_h=900&url=https%3A%2F%2Fbookwhisk.com%2Fterms&rcb=12&frm=0&tiba=404%3A%20This%20page%20could%20not%20be%20found.&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=905666407.1791312613&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3GoGdz7HzHe6GJEGPvI2vjqOEtgMNf95yqt6dkkydQ0UJ2NCtSYzv_wbQHjDBLyGnjD5bah5NRA0c42qo-2QLhnwg_JwQMNgzrbdrMlWMO8R2JYgziyaRTHRBbytZ0b_oaSQIWrsL_PQT-FZBle-Tml8VXagMuXOAzZnvYikbAirfWTbeSiqKXZmb_PKl0SNWBMo_qCcnqupmVExu7eK3bm05VGZYVcd-YCAvbXXt4AkS7g6uctm9QGwVaRqdW0uoWi4N6XhAov8khSU5yJwh_4Ptnt6cotOosz02NtT&random=145246950&rmt_tld=1&ipr=y",
+    "Skipped tracking asset: https://analytics.google.com/g/collect?v=2&tid=G-0YLPWB348V&gtm=45je6a50v9255813038za200zb9233195202zd9233195202xf1&_p=1791312715935&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAACQC&are=1&cid=1376975448.1791312618&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=1&sr=1440x900&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=1&tag_exp=115938465~115938469~118897920~118897930~119793973~120213116~120385423~120469145~120469153~121046263~121046271~121280970&sid=1791312618&sct=1&seg=1&dl=https%3A%2F%2Fbookwhisk.com%2Fterms&dt=404%3A%20This%20page%20could%20not%20be%20found.&en=page_view&_ee=1&ep.anonymize_ip=true&tfd=30378"
+  ]
+}

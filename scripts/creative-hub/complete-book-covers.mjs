@@ -1,0 +1,3 @@
+import fs from 'node:fs/promises';
+const dir='output/bookwhisk/imgs/generated/books';const missing=[];for(let n=9;n<=34;n++)for(const w of [160,240,320,480]){const name=`${n}-${w}.avif`;try{await fs.access(`${dir}/${name}`)}catch{missing.push(name)}}
+let done=0;for(let i=0;i<missing.length;i+=3)await Promise.all(missing.slice(i,i+3).map(async name=>{const r=await fetch(`https://bookwhisk.com/imgs/generated/books/${name}`);if(!r.ok)throw new Error(`${name}: ${r.status}`);await fs.writeFile(`${dir}/${name}`,Buffer.from(await r.arrayBuffer()));done++;}));console.log(`Downloaded ${done} missing carousel images`);
